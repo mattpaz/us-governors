@@ -8,7 +8,7 @@ var data_file = path.join(__dirname, '../us-governors/data/us-governors.json');
 function createSeeder() {
   var seeder = "module.exports = {\n" +
   "  up: function (queryInterface) {\n" +
-  "    return queryInterface.bulkInsert('house', " +
+  "    return queryInterface.bulkInsert('governors', " +
   JSON.stringify(collection, null, 4) +
   ", {\n" +
   "      updateOnDuplicate: [ 'state_name', 'state_name_slug', 'state_code', 'state_code_slug', 'votesmart', 'title', 'party', 'name', 'name_slug', 'first_name', 'middle_name', 'last_name', 'name_suffix', 'goes_by', 'pronunciation', 'gender', 'ethnicity', 'religion', 'openly_lgbtq', 'date_of_birth', 'entered_office', 'term_end', 'biography', 'phone', 'fax', 'latitude', 'longitude', 'address_complete', 'address_number', 'address_prefix', 'address_street', 'address_sec_unit_type', 'address_sec_unit_num', 'address_city', 'address_state', 'address_zipcode', 'address_type', 'website', 'contact_page', 'facebook_url', 'twitter_handle', 'twitter_url', 'photo_url', 'shape', 'modified_date' ]\n" +
@@ -23,7 +23,7 @@ function createSeeder() {
   "    });\n" +
   "  },\n" +
   "    down: function (queryInterface) {\n" +
-  "    return queryInterface.bulkDelete('house', null, {});\n" +
+  "    return queryInterface.bulkDelete('governors', null, {});\n" +
   "  }" +
   "};\n";
 
@@ -31,6 +31,10 @@ function createSeeder() {
   seeder = seeder.replace(/}'\)"/g, '}\')');
   seeder = seeder.replace(/"new Date\(\)"/g, 'new Date()');
   seeder = seeder.replace(/"([a-z_]+)":/g, '$1:');
+  seeder = seeder.replace(/\\"type\\":/g, '"type":');
+  seeder = seeder.replace(/\\"MultiPolygon\\"/g, '"MultiPolygon"');
+  seeder = seeder.replace(/\\"Polygon\\"/g, '"Polygon"');
+  seeder = seeder.replace(/\\"coordinates\\":/g, '"coordinates":');
 
   fs.writeFile(seeder_file, seeder);
 }
@@ -44,18 +48,10 @@ if (!fs.existsSync(data_file)) {
 
   for (var i = 0; i < data.length; i++) {
 
-    var geojsonFile = 'us-governors/geojson/us-governors-';
+    var geojsonFile = 'us-governors/geojson/' + data[i].state_code_slug + '.geojson';
+    var geojson = fs.readFileSync(path.join(__dirname, '../' + geojsonFile), 'utf8');
 
-    if (data[i].district) {
-      geojsonFile += data[i].state_code_slug + '-' + data[i].district + '.geojson';
-    } else {
-      geojsonFile += data[i].state_code_slug + '.geojson';
-    }
-
-    var contents = fs.readFileSync(path.join(__dirname, '../' + geojsonFile), 'utf8');
-    var geojson = JSON.parse(contents);
-
-    data[i].shape = 'queryInterface.sequelize.fn(\'ST_GeomFromGeoJSON\', \'' + JSON.stringify(geojson.geometry) + '\')';
+    data[i].shape = 'queryInterface.sequelize.fn(\'ST_GeomFromGeoJSON\', \'' + geojson + '\')';
     data[i].created_date = 'new Date()';
     data[i].modified_date = 'new Date()';
     collection.push(data[i]);
