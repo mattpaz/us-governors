@@ -1,8 +1,22 @@
 var fs = require('fs');
 var path = require('path');
 
+var date = new Date();
+var year = date.getFullYear().toString();
+var month = (date.getMonth() + 1).toString();
+var day = date.getDate().toString();
+
+if (month.length === 1) {
+  month = '0' + month;
+}
+
+if (day.length === 1) {
+  day = '0' + day;
+}
+
+var prefix = year + month + day;
 var collection, data;
-var seeder_file = path.join(__dirname, '../us-governors/data/20170101000000-governors-seeder.js');
+var seeder_file = path.join(__dirname, '../us-governors/data/' + prefix + '000000-governors-seeder.js');
 var data_file = path.join(__dirname, '../us-governors/data/us-governors.json');
 
 function createSeeder() {
@@ -36,7 +50,7 @@ function createSeeder() {
   seeder = seeder.replace(/\\"Polygon\\"/g, '"Polygon"');
   seeder = seeder.replace(/\\"coordinates\\":/g, '"coordinates":');
 
-  fs.writeFile(seeder_file, seeder);
+  fs.writeFile(seeder_file, seeder, function (){});
 }
 
 if (!fs.existsSync(data_file)) {
