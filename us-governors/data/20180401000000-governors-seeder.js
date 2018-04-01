@@ -1,6 +1,6 @@
 module.exports = {
   up: function (queryInterface) {
-    return queryInterface.bulkInsert('governors', [
+    return queryInterface.bulkInsert('governor', [
     {
         state_name: "Alabama",
         state_name_slug: "alabama",
@@ -2414,5 +2414,5 @@ module.exports = {
     });
   },
     down: function (queryInterface) {
-    return queryInterface.bulkDelete('governors', null, {});
+    return queryInterface.bulkDelete('governor', null, {});
   }};

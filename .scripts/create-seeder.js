@@ -22,7 +22,7 @@ var data_file = path.join(__dirname, '../us-governors/data/us-governors.json');
 function createSeeder() {
   var seeder = "module.exports = {\n" +
   "  up: function (queryInterface) {\n" +
-  "    return queryInterface.bulkInsert('governors', " +
+  "    return queryInterface.bulkInsert('governor', " +
   JSON.stringify(collection, null, 4) +
   ", {\n" +
   "      updateOnDuplicate: [ 'state_name', 'state_name_slug', 'state_code', 'state_code_slug', 'votesmart', 'title', 'party', 'name', 'name_slug', 'first_name', 'middle_name', 'last_name', 'name_suffix', 'goes_by', 'pronunciation', 'gender', 'ethnicity', 'religion', 'openly_lgbtq', 'date_of_birth', 'entered_office', 'term_end', 'biography', 'phone', 'fax', 'latitude', 'longitude', 'address_complete', 'address_number', 'address_prefix', 'address_street', 'address_sec_unit_type', 'address_sec_unit_num', 'address_city', 'address_state', 'address_zipcode', 'address_type', 'website', 'contact_page', 'facebook_url', 'twitter_handle', 'twitter_url', 'photo_url', 'shape', 'modified_date' ]\n" +
@@ -37,7 +37,7 @@ function createSeeder() {
   "    });\n" +
   "  },\n" +
   "    down: function (queryInterface) {\n" +
-  "    return queryInterface.bulkDelete('governors', null, {});\n" +
+  "    return queryInterface.bulkDelete('governor', null, {});\n" +
   "  }" +
   "};\n";
 
