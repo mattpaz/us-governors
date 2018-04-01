@@ -1,51 +1,6 @@
 <?xml version='1.0'?>
 <us-governors>
     <councilor>
-        <state_name>Alaska</state_name>
-        <state_name_slug>alaska</state_name_slug>
-        <state_code>AK</state_code>
-        <state_code_slug>ak</state_code_slug>
-        <votesmart>123219</votesmart>
-        <title>governor</title>
-        <party>independent</party>
-        <name>William Walker</name>
-        <name_slug>william-walker</name_slug>
-        <first_name>William</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Walker</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>Bill</goes_by>
-        <pronunciation>BIL WAH-ker</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>christian</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1951-04-16</date_of_birth>
-        <entered_office>2014-12-01</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>William Martin "Bill" Walker (born April 16, 1951) is an American attorney and politician who is the 13th and current Governor of Alaska. He is the second native-born governor of Alaska after William A. Egan (1959–1966 and 1970–1974).</biography>
-        <phone>907-465-3500</phone>
-        <fax>407-465-3532</fax>
-        <latitude>27.7812652</latitude>
-        <longitude>-82.6321373</longitude>
-        <address_complete>Office of Governor Bill Walker, 3rd Floor, State Capitol, P.O Box 110001, Juneau, AK 99811</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>of</address_street>
-        <address_sec_unit_type>Office</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>null</address_city>
-        <address_state>null</address_state>
-        <address_zipcode>null</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://gov.alaska.gov</website>
-        <contact_page>https://gov.alaska.gov/contact/email-the-governor/</contact_page>
-        <facebook_url>https://www.facebook.com/Governor.BillWalker</facebook_url>
-        <twitter_handle>AkGovBillWalker</twitter_handle>
-        <twitter_url>https://twitter.com/AkGovBillWalker</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/william-walker.jpg</photo_url>
-    </councilor>
-    <councilor>
         <state_name>Alabama</state_name>
         <state_name_slug>alabama</state_name_slug>
         <state_code>AL</state_code>
@@ -91,49 +46,49 @@
         <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/kay-ivey.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Arkansas</state_name>
-        <state_name_slug>arkansas</state_name_slug>
-        <state_code>AR</state_code>
-        <state_code_slug>ar</state_code_slug>
-        <votesmart>732</votesmart>
+        <state_name>Alaska</state_name>
+        <state_name_slug>alaska</state_name_slug>
+        <state_code>AK</state_code>
+        <state_code_slug>ak</state_code_slug>
+        <votesmart>123219</votesmart>
         <title>governor</title>
-        <party>republican</party>
-        <name>Asa Hutchinson</name>
-        <name_slug>asa-hutchinson</name_slug>
-        <first_name>Asa</first_name>
+        <party>independent</party>
+        <name>William Walker</name>
+        <name_slug>william-walker</name_slug>
+        <first_name>William</first_name>
         <middle_name>null</middle_name>
-        <last_name>Hutchinson</last_name>
+        <last_name>Walker</last_name>
         <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>AY-suh HU-chin-sun</pronunciation>
+        <goes_by>Bill</goes_by>
+        <pronunciation>BIL WAH-ker</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>baptist</religion>
+        <religion>christian</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1950-12-03</date_of_birth>
-        <entered_office>2015-01-13</entered_office>
+        <date_of_birth>1951-04-16</date_of_birth>
+        <entered_office>2014-12-01</entered_office>
         <term_end>2019-01-01</term_end>
-        <biography>William Asa Hutchinson II (born December 3, 1950) is an American businessman, attorney, politician who has been the 46th Governor of Arkansas since 2015. Previously he was U.S. Attorney for the Fort Smith-based Western District of Arkansas, U.S. Congressman from the Third District of Arkansas, Administrator of the U.S. Drug Enforcement Administration (DEA) and the first Undersecretary for Border &amp; Transportation Security at the U.S. Department of Homeland Security.</biography>
-        <phone>501-682-2345</phone>
-        <fax>34.746779</fax>
-        <latitude>34.746779</latitude>
-        <longitude>-92.2912417</longitude>
-        <address_complete>State Capitol Room 250, 500 Woodlane Street, Little Rock, AR 72201</address_complete>
+        <biography>William Martin "Bill" Walker (born April 16, 1951) is an American attorney and politician who is the 13th and current Governor of Alaska. He is the second native-born governor of Alaska after William A. Egan (1959–1966 and 1970–1974).</biography>
+        <phone>907-465-3500</phone>
+        <fax>407-465-3532</fax>
+        <latitude>27.7812652</latitude>
+        <longitude>-82.6321373</longitude>
+        <address_complete>Office of Governor Bill Walker, 3rd Floor, State Capitol, P.O Box 110001, Juneau, AK 99811</address_complete>
         <address_number>null</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>State</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_street>of</address_street>
+        <address_sec_unit_type>Office</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
         <address_city>null</address_city>
         <address_state>null</address_state>
         <address_zipcode>null</address_zipcode>
         <address_type>null</address_type>
-        <website>http://governor.arkansas.gov</website>
-        <contact_page>http://governor.arkansas.gov/contact-info</contact_page>
-        <facebook_url>https://www.facebook.com/asaforarkansas</facebook_url>
-        <twitter_handle>AsaHutchinson</twitter_handle>
-        <twitter_url>https://twitter.com/AsaHutchinson</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/asa-hutchinson.jpg</photo_url>
+        <website>https://gov.alaska.gov</website>
+        <contact_page>https://gov.alaska.gov/contact/email-the-governor/</contact_page>
+        <facebook_url>https://www.facebook.com/Governor.BillWalker</facebook_url>
+        <twitter_handle>AkGovBillWalker</twitter_handle>
+        <twitter_url>https://twitter.com/AkGovBillWalker</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/william-walker.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Arizona</state_name>
@@ -179,6 +134,51 @@
         <twitter_handle>dougducey</twitter_handle>
         <twitter_url>https://twitter.com/dougducey</twitter_url>
         <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/douglas-ducey.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Arkansas</state_name>
+        <state_name_slug>arkansas</state_name_slug>
+        <state_code>AR</state_code>
+        <state_code_slug>ar</state_code_slug>
+        <votesmart>732</votesmart>
+        <title>governor</title>
+        <party>republican</party>
+        <name>Asa Hutchinson</name>
+        <name_slug>asa-hutchinson</name_slug>
+        <first_name>Asa</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Hutchinson</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>AY-suh HU-chin-sun</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>baptist</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1950-12-03</date_of_birth>
+        <entered_office>2015-01-13</entered_office>
+        <term_end>2019-01-01</term_end>
+        <biography>William Asa Hutchinson II (born December 3, 1950) is an American businessman, attorney, politician who has been the 46th Governor of Arkansas since 2015. Previously he was U.S. Attorney for the Fort Smith-based Western District of Arkansas, U.S. Congressman from the Third District of Arkansas, Administrator of the U.S. Drug Enforcement Administration (DEA) and the first Undersecretary for Border &amp; Transportation Security at the U.S. Department of Homeland Security.</biography>
+        <phone>501-682-2345</phone>
+        <fax>34.746779</fax>
+        <latitude>34.746779</latitude>
+        <longitude>-92.2912417</longitude>
+        <address_complete>State Capitol Room 250, 500 Woodlane Street, Little Rock, AR 72201</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>State</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>null</address_city>
+        <address_state>null</address_state>
+        <address_zipcode>null</address_zipcode>
+        <address_type>null</address_type>
+        <website>http://governor.arkansas.gov</website>
+        <contact_page>http://governor.arkansas.gov/contact-info</contact_page>
+        <facebook_url>https://www.facebook.com/asaforarkansas</facebook_url>
+        <twitter_handle>AsaHutchinson</twitter_handle>
+        <twitter_url>https://twitter.com/AsaHutchinson</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/asa-hutchinson.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>California</state_name>
@@ -496,51 +496,6 @@
         <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/david-ige.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Iowa</state_name>
-        <state_name_slug>iowa</state_name_slug>
-        <state_code>IA</state_code>
-        <state_code_slug>ia</state_code_slug>
-        <votesmart>21728</votesmart>
-        <title>governor</title>
-        <party>republican</party>
-        <name>Terry Branstad</name>
-        <name_slug>terry-branstad</name_slug>
-        <first_name>Terry</first_name>
-        <middle_name>E.</middle_name>
-        <last_name>Branstad</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>TE-ree BRAN-stad</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>roman-catholic</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1946-11-17</date_of_birth>
-        <entered_office>2011-01-14</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>Terry Edward Branstad (born November 17, 1946) is an American politician and diplomat who is the 42nd Governor of Iowa, in office since January 2011. Branstad was also the state's 39th governor from 1983 to 1999, and he was president of Des Moines University from 2003 to 2009. Currently serving his sixth, four-year term, he is a member of the Republican Party.</biography>
-        <phone>515-281-5211</phone>
-        <fax>null</fax>
-        <latitude>41.5912077</latitude>
-        <longitude>-93.6059486</longitude>
-        <address_complete>1007 East Grand Ave., Des Moines, IA 50319</address_complete>
-        <address_number>1007</address_number>
-        <address_prefix>East</address_prefix>
-        <address_street>Grand</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Des Moines</address_city>
-        <address_state>IA</address_state>
-        <address_zipcode>50319</address_zipcode>
-        <address_type>Ave</address_type>
-        <website>https://governor.iowa.gov</website>
-        <contact_page>https://governor.iowa.gov/contact</contact_page>
-        <facebook_url>https://www.facebook.com/TerryBranstad</facebook_url>
-        <twitter_handle>terrybranstad</twitter_handle>
-        <twitter_url>https://twitter.com/terrybranstad</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/terry-branstad.jpg</photo_url>
-    </councilor>
-    <councilor>
         <state_name>Idaho</state_name>
         <state_name_slug>idaho</state_name_slug>
         <state_code>ID</state_code>
@@ -676,29 +631,74 @@
         <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/eric-holcomb.jpg</photo_url>
     </councilor>
     <councilor>
+        <state_name>Iowa</state_name>
+        <state_name_slug>iowa</state_name_slug>
+        <state_code>IA</state_code>
+        <state_code_slug>ia</state_code_slug>
+        <votesmart>103324</votesmart>
+        <title>governor</title>
+        <party>republican</party>
+        <name>Kimberly Reynolds</name>
+        <name_slug>kimberly-reynolds</name_slug>
+        <first_name>Kimberly</first_name>
+        <middle_name>Kay</middle_name>
+        <last_name>Reynolds</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>Kim</goes_by>
+        <pronunciation>KIM RE-neldz</pronunciation>
+        <gender>female</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1959-08-04</date_of_birth>
+        <entered_office>2017-05-24</entered_office>
+        <term_end>2019-01-01</term_end>
+        <biography>Kimberly Kay Reynold is an American politician serving as the 43rd and current Governor of Iowa since 2017. A Republican, she previously served as the Lieutenant Governor of Iowa from 2011 to 2017 and assumed the governorship when incumbent Governor Terry Branstad became the United States Ambassador to China. Reynolds is the first female Governor of Iowa.</biography>
+        <phone>515-281-5211</phone>
+        <fax>null</fax>
+        <latitude>41.5912077</latitude>
+        <longitude>-93.6059486</longitude>
+        <address_complete>1007 East Grand Ave., Des Moines, IA 50319</address_complete>
+        <address_number>1007</address_number>
+        <address_prefix>East</address_prefix>
+        <address_street>Grand</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Des Moines</address_city>
+        <address_state>IA</address_state>
+        <address_zipcode>50319</address_zipcode>
+        <address_type>Ave</address_type>
+        <website>https://governor.iowa.gov</website>
+        <contact_page>https://governor.iowa.gov/contact</contact_page>
+        <facebook_url>https://www.facebook.com/IAGovernor</facebook_url>
+        <twitter_handle>kimreynoldsia</twitter_handle>
+        <twitter_url>https://twitter.com/kimreynoldsia</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/kimberly-reynolds.jpg</photo_url>
+    </councilor>
+    <councilor>
         <state_name>Kansas</state_name>
         <state_name_slug>kansas</state_name_slug>
         <state_code>KS</state_code>
         <state_code_slug>ks</state_code_slug>
-        <votesmart>21952</votesmart>
+        <votesmart>34449</votesmart>
         <title>governor</title>
         <party>republican</party>
-        <name>Samuel Brownback</name>
-        <name_slug>samuel-brownback</name_slug>
-        <first_name>Samuel</first_name>
-        <middle_name>D.</middle_name>
-        <last_name>Brownback</last_name>
+        <name>Jeffrey Colyer</name>
+        <name_slug>jeffrey-colyer</name_slug>
+        <first_name>Jeffrey</first_name>
+        <middle_name>William</middle_name>
+        <last_name>Colyer</last_name>
         <name_suffix>null</name_suffix>
-        <goes_by>Sam</goes_by>
-        <pronunciation>SAM BROWN-bak</pronunciation>
+        <goes_by>Jeff</goes_by>
+        <pronunciation>JEF KAWL-ee-er</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>roman-catholic</religion>
+        <religion>unspecified</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1956-09-12</date_of_birth>
-        <entered_office>2011-01-10</entered_office>
+        <date_of_birth>1960-06-03</date_of_birth>
+        <entered_office>2018-01-31</entered_office>
         <term_end>2019-01-01</term_end>
-        <biography>Samuel Dale Brownback (born September 12, 1956) is an American politician currently serving as the 46th Governor of Kansas. A member of the Republican Party, Brownback was first elected to the U.S. House of Representatives during the Republican Revolution of 1994, representing Kansas's 2nd congressional district for a single term, before running in a 1996 special election for the Senate seat previously held by Bob Dole.</biography>
+        <biography>Jeffrey William Colyer (born June 3, 1960) is an American surgeon and politician who has served as the 47th Governor of Kansas since 2018. A member of the Republican Party, he previously served as the 49th Lieutenant Governor of Kansas from 2011 until 2018, as a member of the Kansas Senate from 2009 to 2011, and in the Kansas House of Representatives from 2007 to 2009.</biography>
         <phone>785-296-3232</phone>
         <fax>null</fax>
         <latitude>39.0481528</latitude>
@@ -715,10 +715,10 @@
         <address_type>Avenue</address_type>
         <website>https://governor.kansas.gov/</website>
         <contact_page>https://governor.kansas.gov/contact/contact-the-governor/</contact_page>
-        <facebook_url>https://www.facebook.com/govsambrownback</facebook_url>
-        <twitter_handle>govsambrownback</twitter_handle>
-        <twitter_url>https://twitter.com/govsambrownback</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/samuel-brownback.jpg</photo_url>
+        <facebook_url>https://www.facebook.com/DrJeffColyer/</facebook_url>
+        <twitter_handle>drjeffcolyer</twitter_handle>
+        <twitter_url>https://twitter.com/drjeffcolyer</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/jeffrey-colyer.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Kentucky</state_name>
@@ -811,49 +811,49 @@
         <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/john-edwards.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Massachusetts</state_name>
-        <state_name_slug>massachusetts</state_name_slug>
-        <state_code>MA</state_code>
-        <state_code_slug>ma</state_code_slug>
-        <votesmart>124824</votesmart>
+        <state_name>Maine</state_name>
+        <state_name_slug>maine</state_name_slug>
+        <state_code>ME</state_code>
+        <state_code_slug>me</state_code_slug>
+        <votesmart>120907</votesmart>
         <title>governor</title>
         <party>republican</party>
-        <name>Charles Baker</name>
-        <name_slug>charles-baker</name_slug>
-        <first_name>Charles</first_name>
-        <middle_name>Duane</middle_name>
-        <last_name>Baker</last_name>
-        <name_suffix>Jr.</name_suffix>
-        <goes_by>Charlie</goes_by>
-        <pronunciation>CHARR-lee BAY-ker</pronunciation>
+        <name>Paul LePage</name>
+        <name_slug>paul-lepage</name_slug>
+        <first_name>Paul</first_name>
+        <middle_name>Richard</middle_name>
+        <last_name>LePage</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>PA-ul LEE-payj</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>protestant</religion>
+        <religion>unspecified</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1956-11-13</date_of_birth>
-        <entered_office>2015-01-08</entered_office>
+        <date_of_birth>1948-10-09</date_of_birth>
+        <entered_office>2011-01-05</entered_office>
         <term_end>2019-01-01</term_end>
-        <biography>Charles Duane "Charlie" Baker Jr. (born November 13, 1956), is an American businessman and the 72nd and current Governor of Massachusetts, having been sworn into office on January 8, 2015. He was a cabinet official under two Massachusetts governors, spent ten years as CEO of Harvard Pilgrim Health Care and was also the Republican nominee for governor of Massachusetts in an unsuccessful 2010 bid.</biography>
-        <phone>617-725-4005</phone>
-        <fax>617-727-9725</fax>
-        <latitude>42.3587723</latitude>
-        <longitude>-71.0660006</longitude>
-        <address_complete>Massachusetts State House, Office of the Governor, Room 280 Boston, MA 02133</address_complete>
+        <biography>Paul Richard LePage (born October 9, 1948) is an American businessman and Republican Party politician who is currently the 74th Governor of Maine. Born in Lewiston, LePage grew up with seventeen siblings. After some initial difficulty entering college due to speaking French as his first language, he succeeded in obtaining a Bachelor of Science in business administration in finance and accounting from Husson College, later earning a Master of Business Administration from the University of Maine.</biography>
+        <phone>207-287-3531</phone>
+        <fax>207-287-1034</fax>
+        <latitude>44.3044824</latitude>
+        <longitude>-69.7835823</longitude>
+        <address_complete>Office of the Governor, Number 1, State House Station, Augusta, ME 04333</address_complete>
         <address_number>null</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>Massachusetts</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_street>of</address_street>
+        <address_sec_unit_type>Office</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
         <address_city>null</address_city>
         <address_state>null</address_state>
         <address_zipcode>null</address_zipcode>
         <address_type>null</address_type>
-        <website>http://www.mass.gov/governor/</website>
-        <contact_page>http://www.mass.gov/governor/constituent-services/contact-governor-office/</contact_page>
-        <facebook_url>https://www.facebook.com/CharlieBakerMA</facebook_url>
-        <twitter_handle>massgovernor</twitter_handle>
-        <twitter_url>https://twitter.com/massgovernor</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/charles-baker.jpg</photo_url>
+        <website>http://www.maine.gov/governor/lepage/</website>
+        <contact_page>http://www.maine.gov/governor/lepage/citizen_services/ideas-suggestions.shtml</contact_page>
+        <facebook_url>https://www.facebook.com/mainesgov</facebook_url>
+        <twitter_handle>Governor_LePage</twitter_handle>
+        <twitter_url>https://twitter.com/Governor_LePage</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/paul-lepage.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Maryland</state_name>
@@ -901,49 +901,49 @@
         <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/lawrence-hogan.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Maine</state_name>
-        <state_name_slug>maine</state_name_slug>
-        <state_code>ME</state_code>
-        <state_code_slug>me</state_code_slug>
-        <votesmart>120907</votesmart>
+        <state_name>Massachusetts</state_name>
+        <state_name_slug>massachusetts</state_name_slug>
+        <state_code>MA</state_code>
+        <state_code_slug>ma</state_code_slug>
+        <votesmart>124824</votesmart>
         <title>governor</title>
         <party>republican</party>
-        <name>Paul LePage</name>
-        <name_slug>paul-lepage</name_slug>
-        <first_name>Paul</first_name>
-        <middle_name>Richard</middle_name>
-        <last_name>LePage</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>PA-ul LEE-payj</pronunciation>
+        <name>Charles Baker</name>
+        <name_slug>charles-baker</name_slug>
+        <first_name>Charles</first_name>
+        <middle_name>Duane</middle_name>
+        <last_name>Baker</last_name>
+        <name_suffix>Jr.</name_suffix>
+        <goes_by>Charlie</goes_by>
+        <pronunciation>CHARR-lee BAY-ker</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
+        <religion>protestant</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1948-10-09</date_of_birth>
-        <entered_office>2011-01-05</entered_office>
+        <date_of_birth>1956-11-13</date_of_birth>
+        <entered_office>2015-01-08</entered_office>
         <term_end>2019-01-01</term_end>
-        <biography>Paul Richard LePage (born October 9, 1948) is an American businessman and Republican Party politician who is currently the 74th Governor of Maine. Born in Lewiston, LePage grew up with seventeen siblings. After some initial difficulty entering college due to speaking French as his first language, he succeeded in obtaining a Bachelor of Science in business administration in finance and accounting from Husson College, later earning a Master of Business Administration from the University of Maine.</biography>
-        <phone>207-287-3531</phone>
-        <fax>207-287-1034</fax>
-        <latitude>44.3044824</latitude>
-        <longitude>-69.7835823</longitude>
-        <address_complete>Office of the Governor, Number 1, State House Station, Augusta, ME 04333</address_complete>
+        <biography>Charles Duane "Charlie" Baker Jr. (born November 13, 1956), is an American businessman and the 72nd and current Governor of Massachusetts, having been sworn into office on January 8, 2015. He was a cabinet official under two Massachusetts governors, spent ten years as CEO of Harvard Pilgrim Health Care and was also the Republican nominee for governor of Massachusetts in an unsuccessful 2010 bid.</biography>
+        <phone>617-725-4005</phone>
+        <fax>617-727-9725</fax>
+        <latitude>42.3587723</latitude>
+        <longitude>-71.0660006</longitude>
+        <address_complete>Massachusetts State House, Office of the Governor, Room 280 Boston, MA 02133</address_complete>
         <address_number>null</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>of</address_street>
-        <address_sec_unit_type>Office</address_sec_unit_type>
+        <address_street>Massachusetts</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
         <address_city>null</address_city>
         <address_state>null</address_state>
         <address_zipcode>null</address_zipcode>
         <address_type>null</address_type>
-        <website>http://www.maine.gov/governor/lepage/</website>
-        <contact_page>http://www.maine.gov/governor/lepage/citizen_services/ideas-suggestions.shtml</contact_page>
-        <facebook_url>https://www.facebook.com/mainesgov</facebook_url>
-        <twitter_handle>Governor_LePage</twitter_handle>
-        <twitter_url>https://twitter.com/Governor_LePage</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/paul-lepage.jpg</photo_url>
+        <website>http://www.mass.gov/governor/</website>
+        <contact_page>http://www.mass.gov/governor/constituent-services/contact-governor-office/</contact_page>
+        <facebook_url>https://www.facebook.com/CharlieBakerMA</facebook_url>
+        <twitter_handle>massgovernor</twitter_handle>
+        <twitter_url>https://twitter.com/massgovernor</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/charles-baker.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Michigan</state_name>
@@ -1036,51 +1036,6 @@
         <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/mark-dayton.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Missouri</state_name>
-        <state_name_slug>missouri</state_name_slug>
-        <state_code>MO</state_code>
-        <state_code_slug>mo</state_code_slug>
-        <votesmart>169028</votesmart>
-        <title>governor</title>
-        <party>republican</party>
-        <name>Eric Greitens</name>
-        <name_slug>eric-greitens</name_slug>
-        <first_name>Eric</first_name>
-        <middle_name>Robert</middle_name>
-        <last_name>Greitens</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>E-rik GRY-tenz</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1974-04-10</date_of_birth>
-        <entered_office>2017-01-09</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>Eric Robert Greitens (born April 10, 1974) is an American politician, author, and former Navy SEAL currently serving as the 56th Governor of Missouri, since January 2017. He is currently the second youngest Governor in the United States, after New Hampshire's Chris Sununu, also born in 1974.</biography>
-        <phone>573-751-3222</phone>
-        <fax>null</fax>
-        <latitude>38.5774764</latitude>
-        <longitude>-92.1758644</longitude>
-        <address_complete>201 West Capitol Avenue, Room 216, Post Office Box 720, Jefferson City, MO 65101</address_complete>
-        <address_number>201</address_number>
-        <address_prefix>West</address_prefix>
-        <address_street>Capitol</address_street>
-        <address_sec_unit_type>Room</address_sec_unit_type>
-        <address_sec_unit_num>216</address_sec_unit_num>
-        <address_city>null</address_city>
-        <address_state>null</address_state>
-        <address_zipcode>null</address_zipcode>
-        <address_type>Avenue</address_type>
-        <website>https://governor.mo.gov/</website>
-        <contact_page>https://governor.mo.gov/get-involved/contact-the-governors-office</contact_page>
-        <facebook_url>https://www.facebook.com/EricGreitens</facebook_url>
-        <twitter_handle>EricGreitens</twitter_handle>
-        <twitter_url>https://twitter.com/EricGreitens</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/eric-greitens.jpg</photo_url>
-    </councilor>
-    <councilor>
         <state_name>Mississippi</state_name>
         <state_name_slug>mississippi</state_name_slug>
         <state_code>MS</state_code>
@@ -1126,6 +1081,51 @@
         <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/dewey-bryant.jpg</photo_url>
     </councilor>
     <councilor>
+        <state_name>Missouri</state_name>
+        <state_name_slug>missouri</state_name_slug>
+        <state_code>MO</state_code>
+        <state_code_slug>mo</state_code_slug>
+        <votesmart>169028</votesmart>
+        <title>governor</title>
+        <party>republican</party>
+        <name>Eric Greitens</name>
+        <name_slug>eric-greitens</name_slug>
+        <first_name>Eric</first_name>
+        <middle_name>Robert</middle_name>
+        <last_name>Greitens</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>E-rik GRY-tenz</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1974-04-10</date_of_birth>
+        <entered_office>2017-01-09</entered_office>
+        <term_end>2019-01-01</term_end>
+        <biography>Eric Robert Greitens (born April 10, 1974) is an American politician, author, and former Navy SEAL currently serving as the 56th Governor of Missouri, since January 2017. He is currently the second youngest Governor in the United States, after New Hampshire's Chris Sununu, also born in 1974.</biography>
+        <phone>573-751-3222</phone>
+        <fax>null</fax>
+        <latitude>38.5774764</latitude>
+        <longitude>-92.1758644</longitude>
+        <address_complete>201 West Capitol Avenue, Room 216, Post Office Box 720, Jefferson City, MO 65101</address_complete>
+        <address_number>201</address_number>
+        <address_prefix>West</address_prefix>
+        <address_street>Capitol</address_street>
+        <address_sec_unit_type>Room</address_sec_unit_type>
+        <address_sec_unit_num>216</address_sec_unit_num>
+        <address_city>null</address_city>
+        <address_state>null</address_state>
+        <address_zipcode>null</address_zipcode>
+        <address_type>Avenue</address_type>
+        <website>https://governor.mo.gov/</website>
+        <contact_page>https://governor.mo.gov/get-involved/contact-the-governors-office</contact_page>
+        <facebook_url>https://www.facebook.com/EricGreitens</facebook_url>
+        <twitter_handle>EricGreitens</twitter_handle>
+        <twitter_url>https://twitter.com/EricGreitens</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/eric-greitens.jpg</photo_url>
+    </councilor>
+    <councilor>
         <state_name>Montana</state_name>
         <state_name_slug>montana</state_name_slug>
         <state_code>MT</state_code>
@@ -1169,6 +1169,276 @@
         <twitter_handle>GovernorBullock</twitter_handle>
         <twitter_url>https://twitter.com/GovernorBullock</twitter_url>
         <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/stephen-bullock.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Nebraska</state_name>
+        <state_name_slug>nebraska</state_name_slug>
+        <state_code>NE</state_code>
+        <state_code_slug>ne</state_code_slug>
+        <votesmart>57777</votesmart>
+        <title>governor</title>
+        <party>republican</party>
+        <name>John Ricketts</name>
+        <name_slug>john-ricketts</name_slug>
+        <first_name>John</first_name>
+        <middle_name>Peter</middle_name>
+        <last_name>Ricketts</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>Pete</goes_by>
+        <pronunciation>PEET RI-kits</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>roman-catholic</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1964-08-19</date_of_birth>
+        <entered_office>2015-01-08</entered_office>
+        <term_end>2019-01-01</term_end>
+        <biography>Ricketts was born in Nebraska City, Nebraska, and now lives in Omaha. He attended the University of Chicago for both his bachelor and graduate studies, and received an MBA in marketing and finance from the university's Graduate School of Business.</biography>
+        <phone>402-471-2244</phone>
+        <fax>402-471-6031</fax>
+        <latitude>40.800004</latitude>
+        <longitude>-96.672194</longitude>
+        <address_complete>Office of the Governor, Post Office Box 94848, Lincoln, NE 68509-4848</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>of</address_street>
+        <address_sec_unit_type>Office</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>null</address_city>
+        <address_state>null</address_state>
+        <address_zipcode>null</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://governor.nebraska.gov/</website>
+        <contact_page>https://governor.nebraska.gov/contact-form</contact_page>
+        <facebook_url>https://www.facebook.com/GovernorPeteRicketts</facebook_url>
+        <twitter_handle>GovRicketts</twitter_handle>
+        <twitter_url>https://twitter.com/GovRicketts</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/john-ricketts.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Nevada</state_name>
+        <state_name_slug>nevada</state_name_slug>
+        <state_code>NV</state_code>
+        <state_code_slug>nv</state_code_slug>
+        <votesmart>9067</votesmart>
+        <title>governor</title>
+        <party>republican</party>
+        <name>Brian Sandoval</name>
+        <name_slug>brian-sandoval</name_slug>
+        <first_name>Brian</first_name>
+        <middle_name>Edward</middle_name>
+        <last_name>Sandoval</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>BRI-an SAND-OH-val</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1963-08-05</date_of_birth>
+        <entered_office>2011-01-03</entered_office>
+        <term_end>2019-01-01</term_end>
+        <biography>Brian Edward Sandoval (born August 5, 1963) is an American politician and attorney who is the 29th and current Governor of Nevada. A member of the Republican Party, Sandoval is a former United States District Judge of the United States District Court for the District of Nevada. On June 9, 2010, Sandoval defeated his GOP challengers (including the then-incumbent governor Jim Gibbons) to win the Republican nomination for the 2010 gubernatorial election.</biography>
+        <phone>775-684-5670</phone>
+        <fax>775-684-5683</fax>
+        <latitude>39.1641639</latitude>
+        <longitude>-119.7683391</longitude>
+        <address_complete>State Capitol, 101 North Carson Street, Carson City, NV 89701</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>State</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>null</address_city>
+        <address_state>null</address_state>
+        <address_zipcode>null</address_zipcode>
+        <address_type>null</address_type>
+        <website>http://gov.nv.gov/</website>
+        <contact_page>http://gov.nv.gov/Contact/Email-the-Governor/</contact_page>
+        <facebook_url>https://www.facebook.com/BrianSandoval</facebook_url>
+        <twitter_handle>GovSandoval</twitter_handle>
+        <twitter_url>https://twitter.com/GovSandoval</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/brian-sandoval.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>New Hampshire</state_name>
+        <state_name_slug>new-hampshire</state_name_slug>
+        <state_code>NH</state_code>
+        <state_code_slug>nh</state_code_slug>
+        <votesmart>125989</votesmart>
+        <title>governor</title>
+        <party>republican</party>
+        <name>Christopher Sununu</name>
+        <name_slug>christopher-sununu</name_slug>
+        <first_name>Christopher</first_name>
+        <middle_name>T.</middle_name>
+        <last_name>Sununu</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>Chris</goes_by>
+        <pronunciation>KRIS SUU-NOO-noo</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>roman-catholic</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1974-11-05</date_of_birth>
+        <entered_office>2017-01-05</entered_office>
+        <term_end>2019-01-01</term_end>
+        <biography>Christopher T. "Chris" Sununu (born November 5, 1974) is an American politician and businessman who serves as the 82nd and current Governor of New Hampshire, since January 2017. Sununu was previously a member of the New Hampshire Executive Council, an office he held from (2011-2017). At age 42, Sununu is currently the youngest state Governor in the United States.</biography>
+        <phone>603-271-2121</phone>
+        <fax>603-271-7680</fax>
+        <latitude>43.2069998</latitude>
+        <longitude>-71.5403939</longitude>
+        <address_complete>107 North Main Street, Concord, NH 03301</address_complete>
+        <address_number>107</address_number>
+        <address_prefix>North</address_prefix>
+        <address_street>Main</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Concord</address_city>
+        <address_state>NH</address_state>
+        <address_zipcode>03301</address_zipcode>
+        <address_type>Street</address_type>
+        <website>http://www.governor.nh.gov/</website>
+        <contact_page>https://business.nh.gov/nhgovernor/comments.asp</contact_page>
+        <facebook_url>https://www.facebook.com/GovernorChrisSununu</facebook_url>
+        <twitter_handle>GovChrisSununu</twitter_handle>
+        <twitter_url>https://twitter.com/GovChrisSununu</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/christopher-sununu.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>New Jersey</state_name>
+        <state_name_slug>new-jersey</state_name_slug>
+        <state_code>NJ</state_code>
+        <state_code_slug>nj</state_code_slug>
+        <votesmart>176221</votesmart>
+        <title>governor</title>
+        <party>democrat</party>
+        <name>Philip Murphy</name>
+        <name_slug>philip-murphy</name_slug>
+        <first_name>Philip</first_name>
+        <middle_name>Dunton</middle_name>
+        <last_name>Murphy</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>Phil</goes_by>
+        <pronunciation>FIL MUR-fee</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1957-08-16</date_of_birth>
+        <entered_office>2018-01-16</entered_office>
+        <term_end>2022-01-01</term_end>
+        <biography>Philip Dunton Murphy (born August 16, 1957) is an American financier, diplomat, and politician currently serving as the 56th Governor of New Jersey. Murphy, a Democrat, defeated then Lieutenant Governor Kim Guadagno in the 2017 gubernatorial election.</biography>
+        <phone>609-292-6000</phone>
+        <fax>null</fax>
+        <latitude>40.220707</latitude>
+        <longitude>-74.763027</longitude>
+        <address_complete>Office of the Governor, Post Office Box 001, Trenton, NJ 08625</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>of</address_street>
+        <address_sec_unit_type>Office</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>null</address_city>
+        <address_state>null</address_state>
+        <address_zipcode>null</address_zipcode>
+        <address_type>null</address_type>
+        <website>http://www.nj.gov/governor/</website>
+        <contact_page>http://www.nj.gov/governor/contact/</contact_page>
+        <facebook_url>https://www.facebook.com/PhilMurphyNJ</facebook_url>
+        <twitter_handle>philmurphynj</twitter_handle>
+        <twitter_url>https://twitter.com/philmurphynj</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/philip-murphy.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>New Mexico</state_name>
+        <state_name_slug>new-mexico</state_name_slug>
+        <state_code>NM</state_code>
+        <state_code_slug>nm</state_code_slug>
+        <votesmart>121633</votesmart>
+        <title>governor</title>
+        <party>republican</party>
+        <name>Susana Martinez</name>
+        <name_slug>susana-martinez</name_slug>
+        <first_name>Susana</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Martinez</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>SOO-ZA-nuh MARR-TEE-nez</pronunciation>
+        <gender>female</gender>
+        <ethnicity>hispanic-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1959-07-14</date_of_birth>
+        <entered_office>2011-01-01</entered_office>
+        <term_end>2019-01-01</term_end>
+        <biography>Susana Martinez (born July 14, 1959) is an American politician and attorney who is the 31st Governor of New Mexico and chairwoman of the Republican Governors Association. A Republican, Martinez was elected governor on November 2, 2010 and sworn into office on January 1, 2011. She is the first woman to be elected governor of New Mexico and the first Hispanic woman governor in the United States.</biography>
+        <phone>505-476-2200</phone>
+        <fax>505-476-2226</fax>
+        <latitude>35.6819673</latitude>
+        <longitude>-105.941017</longitude>
+        <address_complete>Office of the Governor, 490 Old Santa Fe Trail, Room 400, Santa Fe, NM 87501</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>of</address_street>
+        <address_sec_unit_type>Office</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>null</address_city>
+        <address_state>null</address_state>
+        <address_zipcode>null</address_zipcode>
+        <address_type>null</address_type>
+        <website>http://www.governor.state.nm.us/</website>
+        <contact_page>http://www.governor.state.nm.us/Contact_the_Governor.aspx</contact_page>
+        <facebook_url>https://www.facebook.com/SusanaMartinezFan</facebook_url>
+        <twitter_handle>Gov_Martinez</twitter_handle>
+        <twitter_url>https://twitter.com/Gov_Martinez</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/susana-martinez.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>New York</state_name>
+        <state_name_slug>new-york</state_name_slug>
+        <state_code>NY</state_code>
+        <state_code_slug>ny</state_code_slug>
+        <votesmart>45083</votesmart>
+        <title>governor</title>
+        <party>democrat</party>
+        <name>Andrew Cuomo</name>
+        <name_slug>andrew-cuomo</name_slug>
+        <first_name>Andrew</first_name>
+        <middle_name>Mark</middle_name>
+        <last_name>Cuomo</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>AN-droo KWOH-moh</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>roman-catholic</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1957-12-06</date_of_birth>
+        <entered_office>2011-01-01</entered_office>
+        <term_end>2019-01-01</term_end>
+        <biography>Andrew Mark Cuomo (born December 6, 1957) is an American politician and attorney who has been the 56th Governor of New York since January 1, 2011. A member of the Democratic Party, he was elected in 2010, holding the same position his father, Mario Cuomo, held for three terms from 1983 to 1995.</biography>
+        <phone>518-474-8390</phone>
+        <fax>null</fax>
+        <latitude>42.6497791</latitude>
+        <longitude>-73.7618584</longitude>
+        <address_complete>Governor of New York State, NYS State Capitol Building, Albany, NY 12224</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Governor</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>of</address_city>
+        <address_state>New York</address_state>
+        <address_zipcode>null</address_zipcode>
+        <address_type>null</address_type>
+        <website>http://www.governor.ny.gov/</website>
+        <contact_page>http://www.governor.ny.gov/contact-iframe</contact_page>
+        <facebook_url>https://www.facebook.com/GovernorAndrewCuomo</facebook_url>
+        <twitter_handle>nygovcuomo</twitter_handle>
+        <twitter_url>https://twitter.com/nygovcuomo</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/andrew-cuomo.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>North Carolina</state_name>
@@ -1259,276 +1529,6 @@
         <twitter_handle>DougBurgum</twitter_handle>
         <twitter_url>https://twitter.com/DougBurgum</twitter_url>
         <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/douglas-burgum.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Nebraska</state_name>
-        <state_name_slug>nebraska</state_name_slug>
-        <state_code>NE</state_code>
-        <state_code_slug>ne</state_code_slug>
-        <votesmart>57777</votesmart>
-        <title>governor</title>
-        <party>republican</party>
-        <name>John Ricketts</name>
-        <name_slug>john-ricketts</name_slug>
-        <first_name>John</first_name>
-        <middle_name>Peter</middle_name>
-        <last_name>Ricketts</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>Pete</goes_by>
-        <pronunciation>PEET RI-kits</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>roman-catholic</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1964-08-19</date_of_birth>
-        <entered_office>2015-01-08</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>Ricketts was born in Nebraska City, Nebraska, and now lives in Omaha. He attended the University of Chicago for both his bachelor and graduate studies, and received an MBA in marketing and finance from the university's Graduate School of Business.</biography>
-        <phone>402-471-2244</phone>
-        <fax>402-471-6031</fax>
-        <latitude>40.800004</latitude>
-        <longitude>-96.672194</longitude>
-        <address_complete>Office of the Governor, Post Office Box 94848, Lincoln, NE 68509-4848</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>of</address_street>
-        <address_sec_unit_type>Office</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>null</address_city>
-        <address_state>null</address_state>
-        <address_zipcode>null</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://governor.nebraska.gov/</website>
-        <contact_page>https://governor.nebraska.gov/contact-form</contact_page>
-        <facebook_url>https://www.facebook.com/GovernorPeteRicketts</facebook_url>
-        <twitter_handle>GovRicketts</twitter_handle>
-        <twitter_url>https://twitter.com/GovRicketts</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/john-ricketts.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>New Hampshire</state_name>
-        <state_name_slug>new-hampshire</state_name_slug>
-        <state_code>NH</state_code>
-        <state_code_slug>nh</state_code_slug>
-        <votesmart>125989</votesmart>
-        <title>governor</title>
-        <party>republican</party>
-        <name>Christopher Sununu</name>
-        <name_slug>christopher-sununu</name_slug>
-        <first_name>Christopher</first_name>
-        <middle_name>T.</middle_name>
-        <last_name>Sununu</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>Chris</goes_by>
-        <pronunciation>KRIS SUU-NOO-noo</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>roman-catholic</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1974-11-05</date_of_birth>
-        <entered_office>2017-01-05</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>Christopher T. "Chris" Sununu (born November 5, 1974) is an American politician and businessman who serves as the 82nd and current Governor of New Hampshire, since January 2017. Sununu was previously a member of the New Hampshire Executive Council, an office he held from (2011-2017). At age 42, Sununu is currently the youngest state Governor in the United States.</biography>
-        <phone>603-271-2121</phone>
-        <fax>603-271-7680</fax>
-        <latitude>43.2069998</latitude>
-        <longitude>-71.5403939</longitude>
-        <address_complete>107 North Main Street, Concord, NH 03301</address_complete>
-        <address_number>107</address_number>
-        <address_prefix>North</address_prefix>
-        <address_street>Main</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Concord</address_city>
-        <address_state>NH</address_state>
-        <address_zipcode>03301</address_zipcode>
-        <address_type>Street</address_type>
-        <website>http://www.governor.nh.gov/</website>
-        <contact_page>https://business.nh.gov/nhgovernor/comments.asp</contact_page>
-        <facebook_url>https://www.facebook.com/GovernorChrisSununu</facebook_url>
-        <twitter_handle>GovChrisSununu</twitter_handle>
-        <twitter_url>https://twitter.com/GovChrisSununu</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/christopher-sununu.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>New Jersey</state_name>
-        <state_name_slug>new-jersey</state_name_slug>
-        <state_code>NJ</state_code>
-        <state_code_slug>nj</state_code_slug>
-        <votesmart>111064</votesmart>
-        <title>governor</title>
-        <party>republican</party>
-        <name>Christopher Christie</name>
-        <name_slug>christopher-christie</name_slug>
-        <first_name>Christopher</first_name>
-        <middle_name>James</middle_name>
-        <last_name>Christie</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>Chris</goes_by>
-        <pronunciation>KRIS KRIS-tee</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>roman-catholic</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1962-09-06</date_of_birth>
-        <entered_office>2010-01-19</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>Christopher James "Chris" Christie (born September 6, 1962) is an American politician, lobbyist and attorney. He is a member of the Republican Party and has been the 55th Governor of New Jersey since January 2010. His second and final term ends on January 16, 2018.</biography>
-        <phone>609-292-6000</phone>
-        <fax>null</fax>
-        <latitude>40.220707</latitude>
-        <longitude>-74.763027</longitude>
-        <address_complete>Office of the Governor, Post Office Box 001, Trenton, NJ 08625</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>of</address_street>
-        <address_sec_unit_type>Office</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>null</address_city>
-        <address_state>null</address_state>
-        <address_zipcode>null</address_zipcode>
-        <address_type>null</address_type>
-        <website>http://www.nj.gov/governor/</website>
-        <contact_page>http://www.nj.gov/governor/contact/</contact_page>
-        <facebook_url>https://www.facebook.com/GovChrisChristie</facebook_url>
-        <twitter_handle>GovChristie</twitter_handle>
-        <twitter_url>https://twitter.com/GovChristie</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/christopher-christie.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>New Mexico</state_name>
-        <state_name_slug>new-mexico</state_name_slug>
-        <state_code>NM</state_code>
-        <state_code_slug>nm</state_code_slug>
-        <votesmart>121633</votesmart>
-        <title>governor</title>
-        <party>republican</party>
-        <name>Susana Martinez</name>
-        <name_slug>susana-martinez</name_slug>
-        <first_name>Susana</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Martinez</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>SOO-ZA-nuh MARR-TEE-nez</pronunciation>
-        <gender>female</gender>
-        <ethnicity>hispanic-american</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1959-07-14</date_of_birth>
-        <entered_office>2011-01-01</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>Susana Martinez (born July 14, 1959) is an American politician and attorney who is the 31st Governor of New Mexico and chairwoman of the Republican Governors Association. A Republican, Martinez was elected governor on November 2, 2010 and sworn into office on January 1, 2011. She is the first woman to be elected governor of New Mexico and the first Hispanic woman governor in the United States.</biography>
-        <phone>505-476-2200</phone>
-        <fax>505-476-2226</fax>
-        <latitude>35.6819673</latitude>
-        <longitude>-105.941017</longitude>
-        <address_complete>Office of the Governor, 490 Old Santa Fe Trail, Room 400, Santa Fe, NM 87501</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>of</address_street>
-        <address_sec_unit_type>Office</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>null</address_city>
-        <address_state>null</address_state>
-        <address_zipcode>null</address_zipcode>
-        <address_type>null</address_type>
-        <website>http://www.governor.state.nm.us/</website>
-        <contact_page>http://www.governor.state.nm.us/Contact_the_Governor.aspx</contact_page>
-        <facebook_url>https://www.facebook.com/SusanaMartinezFan</facebook_url>
-        <twitter_handle>Gov_Martinez</twitter_handle>
-        <twitter_url>https://twitter.com/Gov_Martinez</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/susana-martinez.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Nevada</state_name>
-        <state_name_slug>nevada</state_name_slug>
-        <state_code>NV</state_code>
-        <state_code_slug>nv</state_code_slug>
-        <votesmart>9067</votesmart>
-        <title>governor</title>
-        <party>republican</party>
-        <name>Brian Sandoval</name>
-        <name_slug>brian-sandoval</name_slug>
-        <first_name>Brian</first_name>
-        <middle_name>Edward</middle_name>
-        <last_name>Sandoval</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>BRI-an SAND-OH-val</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1963-08-05</date_of_birth>
-        <entered_office>2011-01-03</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>Brian Edward Sandoval (born August 5, 1963) is an American politician and attorney who is the 29th and current Governor of Nevada. A member of the Republican Party, Sandoval is a former United States District Judge of the United States District Court for the District of Nevada. On June 9, 2010, Sandoval defeated his GOP challengers (including the then-incumbent governor Jim Gibbons) to win the Republican nomination for the 2010 gubernatorial election.</biography>
-        <phone>775-684-5670</phone>
-        <fax>775-684-5683</fax>
-        <latitude>39.1641639</latitude>
-        <longitude>-119.7683391</longitude>
-        <address_complete>State Capitol, 101 North Carson Street, Carson City, NV 89701</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>State</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>null</address_city>
-        <address_state>null</address_state>
-        <address_zipcode>null</address_zipcode>
-        <address_type>null</address_type>
-        <website>http://gov.nv.gov/</website>
-        <contact_page>http://gov.nv.gov/Contact/Email-the-Governor/</contact_page>
-        <facebook_url>https://www.facebook.com/BrianSandoval</facebook_url>
-        <twitter_handle>GovSandoval</twitter_handle>
-        <twitter_url>https://twitter.com/GovSandoval</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/brian-sandoval.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>New York</state_name>
-        <state_name_slug>new-york</state_name_slug>
-        <state_code>NY</state_code>
-        <state_code_slug>ny</state_code_slug>
-        <votesmart>45083</votesmart>
-        <title>governor</title>
-        <party>democrat</party>
-        <name>Andrew Cuomo</name>
-        <name_slug>andrew-cuomo</name_slug>
-        <first_name>Andrew</first_name>
-        <middle_name>Mark</middle_name>
-        <last_name>Cuomo</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>AN-droo KWOH-moh</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>roman-catholic</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1957-12-06</date_of_birth>
-        <entered_office>2011-01-01</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>Andrew Mark Cuomo (born December 6, 1957) is an American politician and attorney who has been the 56th Governor of New York since January 1, 2011. A member of the Democratic Party, he was elected in 2010, holding the same position his father, Mario Cuomo, held for three terms from 1983 to 1995.</biography>
-        <phone>518-474-8390</phone>
-        <fax>null</fax>
-        <latitude>42.6497791</latitude>
-        <longitude>-73.7618584</longitude>
-        <address_complete>Governor of New York State, NYS State Capitol Building, Albany, NY 12224</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Governor</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>of</address_city>
-        <address_state>New York</address_state>
-        <address_zipcode>null</address_zipcode>
-        <address_type>null</address_type>
-        <website>http://www.governor.ny.gov/</website>
-        <contact_page>http://www.governor.ny.gov/contact-iframe</contact_page>
-        <facebook_url>https://www.facebook.com/GovernorAndrewCuomo</facebook_url>
-        <twitter_handle>nygovcuomo</twitter_handle>
-        <twitter_url>https://twitter.com/nygovcuomo</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/andrew-cuomo.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Ohio</state_name>
@@ -1981,51 +1981,6 @@
         <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/gary-herbert.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Virginia</state_name>
-        <state_name_slug>virginia</state_name_slug>
-        <state_code>VA</state_code>
-        <state_code_slug>va</state_code_slug>
-        <votesmart>111166</votesmart>
-        <title>governor</title>
-        <party>democrat</party>
-        <name>Terence McAuliffe</name>
-        <name_slug>terence-mcauliffe</name_slug>
-        <first_name>Terence</first_name>
-        <middle_name>Richard</middle_name>
-        <last_name>McAuliffe</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>Terry</goes_by>
-        <pronunciation>TE-ree MUH-KAW-lif</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1957-02-09</date_of_birth>
-        <entered_office>2014-01-11</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>Terence Richard "Terry" McAuliffe (born February 9, 1957) is an American politician and former businessman, who is currently serving as the 72nd Governor of Virginia. He was chairman of the Democratic National Committee from 2001 to 2005, was co-chairman of President Bill Clinton's 1996 re-election campaign, and was chairman of Hillary Clinton's 2008 presidential campaign.</biography>
-        <phone>804-786-2211</phone>
-        <fax>null</fax>
-        <latitude>37.6284448</latitude>
-        <longitude>-77.5469394</longitude>
-        <address_complete>Post Office Box 1475, Richmond, VA 23218</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Post</address_street>
-        <address_sec_unit_type>Office</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>null</address_city>
-        <address_state>null</address_state>
-        <address_zipcode>null</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://governor.virginia.gov/</website>
-        <contact_page>https://governor.virginia.gov/constituent-services/communicating-with-the-governors-office/</contact_page>
-        <facebook_url>https://www.facebook.com/GovernorVA</facebook_url>
-        <twitter_handle>GovernorVA</twitter_handle>
-        <twitter_url>https://twitter.com/GovernorVA</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/terence-mcauliffe.jpg</photo_url>
-    </councilor>
-    <councilor>
         <state_name>Vermont</state_name>
         <state_name_slug>vermont</state_name_slug>
         <state_code>VT</state_code>
@@ -2069,6 +2024,51 @@
         <twitter_handle>GovPhilScott</twitter_handle>
         <twitter_url>https://twitter.com/GovPhilScott</twitter_url>
         <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/philip-scott.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Virginia</state_name>
+        <state_name_slug>virginia</state_name_slug>
+        <state_code>VA</state_code>
+        <state_code_slug>va</state_code_slug>
+        <votesmart>null</votesmart>
+        <title>governor</title>
+        <party>democrat</party>
+        <name>Ralph Northam</name>
+        <name_slug>ralph-northam</name_slug>
+        <first_name>Ralph</first_name>
+        <middle_name>Shearer</middle_name>
+        <last_name>Northam</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>RALF NORTH-am</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1959-09-13</date_of_birth>
+        <entered_office>2018-01-13</entered_office>
+        <term_end>2022-01-01</term_end>
+        <biography>Ralph Shearer Northam (born September 13, 1959) is an American physician, veteran and politician serving as the 73rd Governor of Virginia since January 13, 2018. He served as the 40th Lieutenant Governor of Virginia from 2014 to 2018 prior to winning the governorship against Republican nominee Ed Gillespie in 2017.</biography>
+        <phone>804-786-2211</phone>
+        <fax>null</fax>
+        <latitude>37.6284448</latitude>
+        <longitude>-77.5469394</longitude>
+        <address_complete>Post Office Box 1475, Richmond, VA 23218</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Post</address_street>
+        <address_sec_unit_type>Office</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>null</address_city>
+        <address_state>null</address_state>
+        <address_zipcode>null</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://governor.virginia.gov/</website>
+        <contact_page>https://governor.virginia.gov/constituent-services/communicating-with-the-governors-office/</contact_page>
+        <facebook_url>https://www.facebook.com/ralph.northam</facebook_url>
+        <twitter_handle>ralphnortham</twitter_handle>
+        <twitter_url>https://twitter.com/ralphnortham</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/ralph-northam.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Washington</state_name>
@@ -2116,51 +2116,6 @@
         <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/jay-inslee.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Wisconsin</state_name>
-        <state_name_slug>wisconsin</state_name_slug>
-        <state_code>WI</state_code>
-        <state_code_slug>wi</state_code_slug>
-        <votesmart>3552</votesmart>
-        <title>governor</title>
-        <party>republican</party>
-        <name>Scott Walker</name>
-        <name_slug>scott-walker</name_slug>
-        <first_name>Scott</first_name>
-        <middle_name>Kevin</middle_name>
-        <last_name>Walker</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>SKAHT WAH-ker</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1967-06-30</date_of_birth>
-        <entered_office>2011-01-03</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>Scott Kevin Walker (born November 2, 1967) is an American politician who is the 45th and current Governor of Wisconsin. First elected governor in the 2010 Wisconsin general election, he won a 2012 recall election and was reelected governor in the 2014 Wisconsin gubernatorial election. He also served in the Wisconsin State Assembly and as the Milwaukee County Executive.</biography>
-        <phone>608-266-1212</phone>
-        <fax>null</fax>
-        <latitude>43.086661</latitude>
-        <longitude>-89.3857785</longitude>
-        <address_complete>Office of Governor Scott Walker, 115 East Capitol, Madison, WI 53702</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>of</address_street>
-        <address_sec_unit_type>Office</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>null</address_city>
-        <address_state>null</address_state>
-        <address_zipcode>null</address_zipcode>
-        <address_type>null</address_type>
-        <website>https://walker.wi.gov/</website>
-        <contact_page>https://walker.wi.gov/contact-us</contact_page>
-        <facebook_url>https://www.facebook.com/governorscottwalker</facebook_url>
-        <twitter_handle>govwalker</twitter_handle>
-        <twitter_url>https://twitter.com/govwalker</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/scott-walker.jpg</photo_url>
-    </councilor>
-    <councilor>
         <state_name>West Virginia</state_name>
         <state_name_slug>west-virginia</state_name_slug>
         <state_code>WV</state_code>
@@ -2204,6 +2159,51 @@
         <twitter_handle>WVGovernor</twitter_handle>
         <twitter_url>https://twitter.com/WVGovernor</twitter_url>
         <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/james-justice.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Wisconsin</state_name>
+        <state_name_slug>wisconsin</state_name_slug>
+        <state_code>WI</state_code>
+        <state_code_slug>wi</state_code_slug>
+        <votesmart>3552</votesmart>
+        <title>governor</title>
+        <party>republican</party>
+        <name>Scott Walker</name>
+        <name_slug>scott-walker</name_slug>
+        <first_name>Scott</first_name>
+        <middle_name>Kevin</middle_name>
+        <last_name>Walker</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>SKAHT WAH-ker</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1967-06-30</date_of_birth>
+        <entered_office>2011-01-03</entered_office>
+        <term_end>2019-01-01</term_end>
+        <biography>Scott Kevin Walker (born November 2, 1967) is an American politician who is the 45th and current Governor of Wisconsin. First elected governor in the 2010 Wisconsin general election, he won a 2012 recall election and was reelected governor in the 2014 Wisconsin gubernatorial election. He also served in the Wisconsin State Assembly and as the Milwaukee County Executive.</biography>
+        <phone>608-266-1212</phone>
+        <fax>null</fax>
+        <latitude>43.086661</latitude>
+        <longitude>-89.3857785</longitude>
+        <address_complete>Office of Governor Scott Walker, 115 East Capitol, Madison, WI 53702</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>of</address_street>
+        <address_sec_unit_type>Office</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>null</address_city>
+        <address_state>null</address_state>
+        <address_zipcode>null</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://walker.wi.gov/</website>
+        <contact_page>https://walker.wi.gov/contact-us</contact_page>
+        <facebook_url>https://www.facebook.com/governorscottwalker</facebook_url>
+        <twitter_handle>govwalker</twitter_handle>
+        <twitter_url>https://twitter.com/govwalker</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/scott-walker.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Wyoming</state_name>

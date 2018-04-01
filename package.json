@@ -1,6 +1,6 @@
 {
   "name": "civil-services-us-governors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "United States Governors. Demographics, Headshots, Legislator Data & Social Media Links ( JSON, XML, CSV, SQL, XLSX  & YML formats )",
   "license": "MIT",
   "keywords": [
@@ -59,6 +59,7 @@
     "url": "https://civil.services"
   },
   "scripts": {
+    "update-csv": "curl -o ./source/us-governors.csv 'https://docs.google.com/spreadsheets/d/1AMwiClcbogCc1LoIlwX8M2vFGNzGK3NQWY5Qrk6sNuc/export?format=csv&id=1AMwiClcbogCc1LoIlwX8M2vFGNzGK3NQWY5Qrk6sNuc&gid=284703522'",
     "json-to-yml": "if ( test -e ./us-governors/data/us-governors.json ); then ./node_modules/.bin/json2yaml ./us-governors/data/us-governors.json > ./us-governors/data/us-governors.yml && echo '✓ Updated us-governors/data/us-governors.yml'; else echo '\n× Missing ./us-governors/data/us-governors.json ( npm run -s convert-csv )\n'; fi",
     "json-to-xml": "if ( test -e ./us-governors/data/us-governors.json ); then node ./.scripts/json-to-xml.js && echo '✓ Updated us-governors/data/us-governors.xml'; else echo '\n× Missing ./us-governors/data/us-governors.json ( npm run -s convert-csv )\n'; fi",
     "csv-to-sql": "if ( test -e ./us-governors/data/us-governors.json ); then node ./.scripts/csv-to-sql.js && echo '✓ Updated us-governors/data/us-governors.sql'; else echo '\n× Missing ./us-governors/data/us-governors.json ( npm run -s convert-csv )\n'; fi",

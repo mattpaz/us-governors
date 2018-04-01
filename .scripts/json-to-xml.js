@@ -4,4 +4,4 @@ var js2xmlparser = require('js2xmlparser');
 
 var xml = js2xmlparser.parse('us-governors', { 'councilor': obj });
 
-fs.writeFile('us-governors/data/us-governors.xml', xml);
+fs.writeFile('us-governors/data/us-governors.xml', xml, function (){});

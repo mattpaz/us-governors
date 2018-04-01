@@ -51,9 +51,7 @@ function createDistrictMap(geoJSON) {
 
     var districtID = (geoJSON.properties.district) ? '-' + geoJSON.properties.district : '';
     var filename = 'us-governors/geojson/us-governors-' + geoJSON.properties.state_code_slug + districtID + '.geojson';
-    fs.writeFile(filename, JSON.stringify(district, null, 2));
-
-    console.log('✓ Created ./' + filename);
+    fs.writeFile(filename, JSON.stringify(district, null, 2), function (){});
   } else {
     console.error('× Invalid Data: ' + geoJSON.state_name + ' ' + geoJSON.district);
   }
@@ -64,9 +62,7 @@ function createDistrictMap(geoJSON) {
  */
 function createDistrictsMap() {
   var filename = 'us-governors/geojson/us-governors.geojson';
-  fs.writeFile(filename, JSON.stringify(collection, null, 2));
-
-  console.log('✓ Created ./' + filename);
+  fs.writeFile(filename, JSON.stringify(collection, null, 2), function (){});
 }
 
 
@@ -91,4 +87,3 @@ if (!fs.existsSync(geojson_file)) {
 
   console.log('\n☆ GeoJSON Creation Completed ' + '\n');
 }
-
