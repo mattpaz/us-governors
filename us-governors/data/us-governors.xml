@@ -71,8 +71,8 @@
         <biography>Mike J. Dunleavy (born May 5, 1961) is an American politician who is the 12th and current governor of Alaska, since 2018. A Republican, Dunleavy was a member of the Alaska Senate from 2013 through 2018. Dunleavy defeated former Democratic United States Senator Mark Begich in the 2018 gubernatorial election.</biography>
         <phone>907-465-3500</phone>
         <fax>907-465-3532</fax>
-        <latitude>null</latitude>
-        <longitude>null</longitude>
+        <latitude>11.696815</latitude>
+        <longitude>122.36887</longitude>
         <address_complete>Office of the Governor, Post Office Box 110001, Juneau, AK 99811-0001</address_complete>
         <address_number>null</address_number>
         <address_prefix>null</address_prefix>
@@ -134,51 +134,6 @@
         <twitter_handle>dougducey</twitter_handle>
         <twitter_url>https://twitter.com/dougducey</twitter_url>
         <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/douglas-ducey.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>California</state_name>
-        <state_name_slug>california</state_name_slug>
-        <state_code>CA</state_code>
-        <state_code_slug>ca</state_code_slug>
-        <votesmart>70386</votesmart>
-        <title>governor</title>
-        <party>democrat</party>
-        <name>Gavin Newsom</name>
-        <name_slug>gavin-newsom</name_slug>
-        <first_name>Gavin</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Newsom</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>GA-vin NOO-sum</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1967-10-10</date_of_birth>
-        <entered_office>2019-01-07</entered_office>
-        <term_end>2022-12-31</term_end>
-        <biography>Gavin Christopher Newsom is an American politician and businessman who is the 40th and current governor of California. A member of the Democratic Party, he previously served as the 49th Lieutenant Governor of California from 2011 to 2019 and as the 42nd Mayor of San Francisco from 2004 to 2011.</biography>
-        <phone>916-445-2841</phone>
-        <fax>916-558-3160</fax>
-        <latitude>null</latitude>
-        <longitude>null</longitude>
-        <address_complete>Office of the Governor, Suite 1173, Sacramento, CA 95814</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>of</address_street>
-        <address_sec_unit_type>Office</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>null</address_city>
-        <address_state>null</address_state>
-        <address_zipcode>null</address_zipcode>
-        <address_type>null</address_type>
-        <website>http://gov.ca.gov/</website>
-        <contact_page>https://govapps.gov.ca.gov/gov40mail/</contact_page>
-        <facebook_url>https://www.facebook.com/GavinNewsom</facebook_url>
-        <twitter_handle>GavinNewsom</twitter_handle>
-        <twitter_url>https://twitter.com/GavinNewsom</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/gavin-newsom.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Arkansas</state_name>
@@ -251,8 +206,8 @@
         <biography>Jared Schutz Polis is an American politician, entrepreneur, and philanthropist who is the 43rd Governor of Colorado. From 2009 to 2019, he was the United States Representative for Colorado's 2nd congressional district. Polis was elected Governor of Colorado in 2018, making him the first openly gay man elected governor in the United States, the second openly LGBT person elected governor in the United States (after Governor Kate Brown of Oregon), and the first Jewish person elected governor of Colorado.</biography>
         <phone>303-866-2471</phone>
         <fax>303-866-2003</fax>
-        <latitude>null</latitude>
-        <longitude>null</longitude>
+        <latitude>39.73921</latitude>
+        <longitude>-104.98497</longitude>
         <address_complete>136 State Capitol, Denver CO, 80203-1792</address_complete>
         <address_number>136</address_number>
         <address_prefix>null</address_prefix>
@@ -271,49 +226,94 @@
         <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/jared-polis.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Georgia</state_name>
-        <state_name_slug>georgia</state_name_slug>
-        <state_code>GA</state_code>
-        <state_code_slug>ga</state_code_slug>
-        <votesmart>26824</votesmart>
+        <state_name>Connecticut</state_name>
+        <state_name_slug>connecticut</state_name_slug>
+        <state_code>CT</state_code>
+        <state_code_slug>ct</state_code_slug>
+        <votesmart>68381</votesmart>
         <title>governor</title>
-        <party>republican</party>
-        <name>Nathan Deal</name>
-        <name_slug>nathan-deal</name_slug>
-        <first_name>Nathan</first_name>
+        <party>democrat</party>
+        <name>Edward Lamont</name>
+        <name_slug>edward-lamont</name_slug>
+        <first_name>Edward</first_name>
         <middle_name>null</middle_name>
-        <last_name>Deal</last_name>
+        <last_name>Lamont</last_name>
         <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>NAY-then DE-al</pronunciation>
+        <goes_by>Ned</goes_by>
+        <pronunciation>ED-werd LUH-mahnt</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>christian</religion>
+        <religion>unspecified</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1942-08-25</date_of_birth>
-        <entered_office>2019-01-08</entered_office>
+        <date_of_birth>1954-01-03</date_of_birth>
+        <entered_office>2019-01-09</entered_office>
         <term_end>2022-12-31</term_end>
-        <biography>Nathan Deal is the 82nd and current Republican Governor of Georgia. He was first elected in 2010 over former Gov. Roy Barnes (D) and was re-elected in 2014 over state Sen. Jason Carter (D). Before serving as governor, Deal represented Georgia's 9th Congressional District in the U.S. House.</biography>
-        <phone>404-656-1776</phone>
-        <fax>404-657-7332</fax>
-        <latitude>null</latitude>
-        <longitude>null</longitude>
-        <address_complete>203 State Capitol, Atlanta, GA 30334</address_complete>
-        <address_number>203</address_number>
+        <biography>Edward Miner Lamont Jr. is an American businessman and politician who is the 89th governor of Connecticut. He is a member of the Democratic Party.</biography>
+        <phone>800-406-1527</phone>
+        <fax>860-524-7395</fax>
+        <latitude>41.7641979</latitude>
+        <longitude>-72.684661</longitude>
+        <address_complete>210 Capitol Avenue, Hartford CT, 61060</address_complete>
+        <address_number>210</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>State Capitol</address_street>
+        <address_street>Capitol</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Atlanta</address_city>
-        <address_state>GA</address_state>
-        <address_zipcode>30334</address_zipcode>
+        <address_city>Hartford</address_city>
+        <address_state>CT</address_state>
+        <address_zipcode>61060</address_zipcode>
+        <address_type>Avenue</address_type>
+        <website>https://portal.ct.gov/Office-of-the-Governor</website>
+        <contact_page>https://portal.ct.gov/Office-of-the-Governor/Contact/Email-Governor-Lamont</contact_page>
+        <facebook_url>https://www.facebook.com/NedLamontCT/</facebook_url>
+        <twitter_handle>GovNedLamont</twitter_handle>
+        <twitter_url>https://twitter.com/GovNedLamont</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/edward-lamont.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>California</state_name>
+        <state_name_slug>california</state_name_slug>
+        <state_code>CA</state_code>
+        <state_code_slug>ca</state_code_slug>
+        <votesmart>70386</votesmart>
+        <title>governor</title>
+        <party>democrat</party>
+        <name>Gavin Newsom</name>
+        <name_slug>gavin-newsom</name_slug>
+        <first_name>Gavin</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Newsom</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>GA-vin NOO-sum</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1967-10-10</date_of_birth>
+        <entered_office>2019-01-07</entered_office>
+        <term_end>2022-12-31</term_end>
+        <biography>Gavin Christopher Newsom is an American politician and businessman who is the 40th and current governor of California. A member of the Democratic Party, he previously served as the 49th Lieutenant Governor of California from 2011 to 2019 and as the 42nd Mayor of San Francisco from 2004 to 2011.</biography>
+        <phone>916-445-2841</phone>
+        <fax>916-558-3160</fax>
+        <latitude>38.575263</latitude>
+        <longitude>-121.494735</longitude>
+        <address_complete>Office of the Governor, Suite 1173, Sacramento, CA 95814</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>of</address_street>
+        <address_sec_unit_type>Office</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>null</address_city>
+        <address_state>null</address_state>
+        <address_zipcode>null</address_zipcode>
         <address_type>null</address_type>
-        <website>http://gov.georgia.gov/</website>
-        <contact_page>https://gov.georgia.gov/webform/contact-governor</contact_page>
-        <facebook_url>https://www.facebook.com/GovernorDeal</facebook_url>
-        <twitter_handle>GovernorDeal</twitter_handle>
-        <twitter_url>https://twitter.com/GovernorDeal</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/nathan-deal.jpg</photo_url>
+        <website>http://gov.ca.gov/</website>
+        <contact_page>https://govapps.gov.ca.gov/gov40mail/</contact_page>
+        <facebook_url>https://www.facebook.com/GavinNewsom</facebook_url>
+        <twitter_handle>GavinNewsom</twitter_handle>
+        <twitter_url>https://twitter.com/GavinNewsom</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/gavin-newsom.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Delaware</state_name>
@@ -361,6 +361,141 @@
         <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/john-carney.jpg</photo_url>
     </councilor>
     <councilor>
+        <state_name>Florida</state_name>
+        <state_name_slug>florida</state_name_slug>
+        <state_code>FL</state_code>
+        <state_code_slug>fl</state_code_slug>
+        <votesmart>137630</votesmart>
+        <title>governor</title>
+        <party>republican</party>
+        <name>Ronald DeSantis</name>
+        <name_slug>ronald-desantis</name_slug>
+        <first_name>Ronald</first_name>
+        <middle_name>null</middle_name>
+        <last_name>DeSantis</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>Ron</goes_by>
+        <pronunciation>RAWN DI-SAHN-tis</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>christian</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1978-09-14</date_of_birth>
+        <entered_office>2019-01-08</entered_office>
+        <term_end>2022-12-31</term_end>
+        <biography>Ronald Dion DeSantis is an American veteran and politician serving as the 46th and current Governor of Florida since 2019. A member of the Republican Party, he previously represented Florida's 6th congressional district in the United States House of Representatives from 2013 to 2018. After graduating from Yale University and Harvard Law School, DeSantis served as an officer and attorney in the Judge Advocate General's Corps, U.S. Navy (JAG).</biography>
+        <phone>850-488-7146</phone>
+        <fax>850-487-0801</fax>
+        <latitude>30.4381</latitude>
+        <longitude>-84.28212</longitude>
+        <address_complete>PL 05 The Capitol, 400 South Monroe Street, Tallahassee, FL  32399-0001</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>PL</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>null</address_city>
+        <address_state>null</address_state>
+        <address_zipcode>null</address_zipcode>
+        <address_type>null</address_type>
+        <website>http://www.flgov.com/</website>
+        <contact_page>https://www.flgov.com/contact-governor/</contact_page>
+        <facebook_url>https://www.facebook.com/RonDeSantisFlorida/</facebook_url>
+        <twitter_handle>rondesantisfl</twitter_handle>
+        <twitter_url>https://twitter.com/rondesantisfl</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/ronald-desantis.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Georgia</state_name>
+        <state_name_slug>georgia</state_name_slug>
+        <state_code>GA</state_code>
+        <state_code_slug>ga</state_code_slug>
+        <votesmart>26824</votesmart>
+        <title>governor</title>
+        <party>republican</party>
+        <name>Nathan Deal</name>
+        <name_slug>nathan-deal</name_slug>
+        <first_name>Nathan</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Deal</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>NAY-then DE-al</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>christian</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1942-08-25</date_of_birth>
+        <entered_office>2019-01-08</entered_office>
+        <term_end>2022-12-31</term_end>
+        <biography>Nathan Deal is the 82nd and current Republican Governor of Georgia. He was first elected in 2010 over former Gov. Roy Barnes (D) and was re-elected in 2014 over state Sen. Jason Carter (D). Before serving as governor, Deal represented Georgia's 9th Congressional District in the U.S. House.</biography>
+        <phone>404-656-1776</phone>
+        <fax>404-657-7332</fax>
+        <latitude>33.74902</latitude>
+        <longitude>-84.38796</longitude>
+        <address_complete>203 State Capitol, Atlanta, GA 30334</address_complete>
+        <address_number>203</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>State Capitol</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Atlanta</address_city>
+        <address_state>GA</address_state>
+        <address_zipcode>30334</address_zipcode>
+        <address_type>null</address_type>
+        <website>http://gov.georgia.gov/</website>
+        <contact_page>https://gov.georgia.gov/webform/contact-governor</contact_page>
+        <facebook_url>https://www.facebook.com/GovernorDeal</facebook_url>
+        <twitter_handle>GovernorDeal</twitter_handle>
+        <twitter_url>https://twitter.com/GovernorDeal</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/nathan-deal.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Hawaii</state_name>
+        <state_name_slug>hawaii</state_name_slug>
+        <state_code>HI</state_code>
+        <state_code_slug>hi</state_code_slug>
+        <votesmart>3406</votesmart>
+        <title>governor</title>
+        <party>democrat</party>
+        <name>David Ige</name>
+        <name_slug>david-ige</name_slug>
+        <first_name>David</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Ige</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>DAY-vid EE-gay</pronunciation>
+        <gender>male</gender>
+        <ethnicity>pacific-islander</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1957-01-15</date_of_birth>
+        <entered_office>2014-01-12</entered_office>
+        <term_end>2019-01-01</term_end>
+        <biography>David Yutaka Ige (born January 15, 1957) is an American politician who serves as the eighth and current Governor of Hawaii, in office since 2014. A Democrat, he previously served in the Hawaii State Senate, representing the 16th district, from 1995 to 2014. In the 2014 Hawaii gubernatorial election, he won the Democratic primary by defeating incumbent Governor Neil Abercrombie with 66% of the vote.</biography>
+        <phone>808-586-0034</phone>
+        <fax>808-586-0006</fax>
+        <latitude>21.307764</latitude>
+        <longitude>-157.8594961</longitude>
+        <address_complete>415 South Beretania Street, Honolulu, HI 96813</address_complete>
+        <address_number>415</address_number>
+        <address_prefix>South</address_prefix>
+        <address_street>Beretania</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Honolulu</address_city>
+        <address_state>HI</address_state>
+        <address_zipcode>96813</address_zipcode>
+        <address_type>Street</address_type>
+        <website>http://governor.hawaii.gov</website>
+        <contact_page>https://governor.hawaii.gov/contact-us/contact-the-governor/</contact_page>
+        <facebook_url>https://www.facebook.com/GovernorDavidIge</facebook_url>
+        <twitter_handle>GovHawaii</twitter_handle>
+        <twitter_url>https://twitter.com/GovHawaii</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/david-ige.jpg</photo_url>
+    </councilor>
+    <councilor>
         <state_name>Idaho</state_name>
         <state_name_slug>idaho</state_name_slug>
         <state_code>ID</state_code>
@@ -386,8 +521,8 @@
         <biography>Brad Little is the Republican Governor of Idaho. Little was elected to the office on November 6, 2018. Little was the 42nd Lieutenant Governor of Idaho, serving from 2009 to 2019. In his capacity as lieutenant governor, Little also served as president of the Idaho State Senate.</biography>
         <phone>208-334-2100</phone>
         <fax>208-334-2175</fax>
-        <latitude>null</latitude>
-        <longitude>null</longitude>
+        <latitude>43.617779</latitude>
+        <longitude>-116.199654</longitude>
         <address_complete>700 West Jefferson, Boise, ID 83702</address_complete>
         <address_number>700</address_number>
         <address_prefix>West</address_prefix>
@@ -431,17 +566,17 @@
         <biography>J.B. Pritzker is the Democratic Governor of Illinois. Pritzker was elected to the office on November 6, 2018.</biography>
         <phone>217-782-0244</phone>
         <fax>217-524-4049</fax>
-        <latitude>null</latitude>
-        <longitude>null</longitude>
-        <address_complete>207 Statehouse, Springfield, IL 62706</address_complete>
-        <address_number>207</address_number>
+        <latitude>39.801149</latitude>
+        <longitude>-89.648686</longitude>
+        <address_complete>State Capitol, Springfield, IL 62706</address_complete>
+        <address_number>null</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>Statehouse</address_street>
+        <address_street>State</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Springfield</address_city>
-        <address_state>IL</address_state>
-        <address_zipcode>62706</address_zipcode>
+        <address_city>null</address_city>
+        <address_state>null</address_state>
+        <address_zipcode>null</address_zipcode>
         <address_type>null</address_type>
         <website>http://www.illinois.gov/gov/</website>
         <contact_page>https://www2.illinois.gov/gov/contactus/Pages/default.aspx</contact_page>
@@ -566,8 +701,8 @@
         <biography>Laura Kelly is the Democratic Governor of Kansas. Kelly was elected to the office on November 6, 2018. Kelly is a former Democratic member of the Kansas State Senate, representing District 18 from 2005 to 2018.</biography>
         <phone>785-296-3232</phone>
         <fax>785-296-7973</fax>
-        <latitude>null</latitude>
-        <longitude>null</longitude>
+        <latitude>39.046497</latitude>
+        <longitude>-95.67936</longitude>
         <address_complete>300 SW 10th Avenue, Suite 212S, Topeka, KS 66612-1590</address_complete>
         <address_number>300</address_number>
         <address_prefix>SW</address_prefix>
@@ -631,51 +766,6 @@
         <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/matthew-bevin.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Louisiana</state_name>
-        <state_name_slug>louisiana</state_name_slug>
-        <state_code>LA</state_code>
-        <state_code_slug>la</state_code_slug>
-        <votesmart>72012</votesmart>
-        <title>governor</title>
-        <party>democrat</party>
-        <name>John Edwards</name>
-        <name_slug>john-edwards</name_slug>
-        <first_name>John</first_name>
-        <middle_name>Bel</middle_name>
-        <last_name>Edwards</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>JOAN ED-werdz</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1966-09-16</date_of_birth>
-        <entered_office>2016-01-11</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>John Bel Edwards (born September 16, 1966) is an American politician and lawyer who is the 56th and current Governor of Louisiana, in office since January 11, 2016. He was previously the Minority Leader of the Louisiana House of Representatives and represented the 72nd District for two terms. He left the state legislature to run for governor in 2015.</biography>
-        <phone>623-773-7328</phone>
-        <fax>225-342-7099</fax>
-        <latitude>33.5766177</latitude>
-        <longitude>-112.242531</longitude>
-        <address_complete>8401 West Monroe Street, Peoria, AZ 85345</address_complete>
-        <address_number>8401</address_number>
-        <address_prefix>West</address_prefix>
-        <address_street>Monroe</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Peoria</address_city>
-        <address_state>AZ</address_state>
-        <address_zipcode>85345</address_zipcode>
-        <address_type>Street</address_type>
-        <website>http://gov.louisiana.gov/</website>
-        <contact_page>http://gov.louisiana.gov/page/contact</contact_page>
-        <facebook_url>https://www.facebook.com/LouisianaGov</facebook_url>
-        <twitter_handle>louisianagov</twitter_handle>
-        <twitter_url>https://twitter.com/louisianagov</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/john-edwards.jpg</photo_url>
-    </councilor>
-    <councilor>
         <state_name>Maine</state_name>
         <state_name_slug>maine</state_name_slug>
         <state_code>ME</state_code>
@@ -701,8 +791,8 @@
         <biography>Janet T. Mills is the Democratic Governor of Maine. Mills was elected to the office on November 6, 2018. Mills served as Maine attorney general from 2009 to 2010 and again assumed office in 2012.</biography>
         <phone>207-287-3531</phone>
         <fax>207-287-1034</fax>
-        <latitude>null</latitude>
-        <longitude>null</longitude>
+        <latitude>44.3069799</latitude>
+        <longitude>-69.784334</longitude>
         <address_complete>1 State House Station, Augusta, ME 04333</address_complete>
         <address_number>1</address_number>
         <address_prefix>null</address_prefix>
@@ -766,49 +856,49 @@
         <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/lawrence-hogan.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Massachusetts</state_name>
-        <state_name_slug>massachusetts</state_name_slug>
-        <state_code>MA</state_code>
-        <state_code_slug>ma</state_code_slug>
-        <votesmart>124824</votesmart>
+        <state_name>Louisiana</state_name>
+        <state_name_slug>louisiana</state_name_slug>
+        <state_code>LA</state_code>
+        <state_code_slug>la</state_code_slug>
+        <votesmart>72012</votesmart>
         <title>governor</title>
-        <party>republican</party>
-        <name>Charles Baker</name>
-        <name_slug>charles-baker</name_slug>
-        <first_name>Charles</first_name>
-        <middle_name>Duane</middle_name>
-        <last_name>Baker</last_name>
-        <name_suffix>Jr.</name_suffix>
-        <goes_by>Charlie</goes_by>
-        <pronunciation>CHARR-lee BAY-ker</pronunciation>
+        <party>democrat</party>
+        <name>John Edwards</name>
+        <name_slug>john-edwards</name_slug>
+        <first_name>John</first_name>
+        <middle_name>Bel</middle_name>
+        <last_name>Edwards</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>JOAN ED-werdz</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>protestant</religion>
+        <religion>unspecified</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1956-11-13</date_of_birth>
-        <entered_office>2015-01-08</entered_office>
+        <date_of_birth>1966-09-16</date_of_birth>
+        <entered_office>2016-01-11</entered_office>
         <term_end>2019-01-01</term_end>
-        <biography>Charles Duane "Charlie" Baker Jr. (born November 13, 1956), is an American businessman and the 72nd and current Governor of Massachusetts, having been sworn into office on January 8, 2015. He was a cabinet official under two Massachusetts governors, spent ten years as CEO of Harvard Pilgrim Health Care and was also the Republican nominee for governor of Massachusetts in an unsuccessful 2010 bid.</biography>
-        <phone>617-725-4005</phone>
-        <fax>617-727-9725</fax>
-        <latitude>42.3587723</latitude>
-        <longitude>-71.0660006</longitude>
-        <address_complete>Massachusetts State House, Office of the Governor, Room 280 Boston, MA 02133</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Massachusetts</address_street>
+        <biography>John Bel Edwards (born September 16, 1966) is an American politician and lawyer who is the 56th and current Governor of Louisiana, in office since January 11, 2016. He was previously the Minority Leader of the Louisiana House of Representatives and represented the 72nd District for two terms. He left the state legislature to run for governor in 2015.</biography>
+        <phone>623-773-7328</phone>
+        <fax>225-342-7099</fax>
+        <latitude>33.5766177</latitude>
+        <longitude>-112.242531</longitude>
+        <address_complete>8401 West Monroe Street, Peoria, AZ 85345</address_complete>
+        <address_number>8401</address_number>
+        <address_prefix>West</address_prefix>
+        <address_street>Monroe</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>null</address_city>
-        <address_state>null</address_state>
-        <address_zipcode>null</address_zipcode>
-        <address_type>null</address_type>
-        <website>http://www.mass.gov/governor/</website>
-        <contact_page>http://www.mass.gov/governor/constituent-services/contact-governor-office/</contact_page>
-        <facebook_url>https://www.facebook.com/CharlieBakerMA</facebook_url>
-        <twitter_handle>massgovernor</twitter_handle>
-        <twitter_url>https://twitter.com/massgovernor</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/charles-baker.jpg</photo_url>
+        <address_city>Peoria</address_city>
+        <address_state>AZ</address_state>
+        <address_zipcode>85345</address_zipcode>
+        <address_type>Street</address_type>
+        <website>http://gov.louisiana.gov/</website>
+        <contact_page>http://gov.louisiana.gov/page/contact</contact_page>
+        <facebook_url>https://www.facebook.com/LouisianaGov</facebook_url>
+        <twitter_handle>louisianagov</twitter_handle>
+        <twitter_url>https://twitter.com/louisianagov</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/john-edwards.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Michigan</state_name>
@@ -836,8 +926,8 @@
         <biography>Gretchen Whitmer is the Democratic Governor of Michigan. Whitmer was elected to the office on November 6, 2018. Whitmer is a former Democratic member of the Michigan State Senate, representing District 23 from her win in a 2006 special election to 2015. She served as minority leader for the final four years of her tenure.</biography>
         <phone>517-373-3400</phone>
         <fax>517-335-6863</fax>
-        <latitude>null</latitude>
-        <longitude>null</longitude>
+        <latitude>42.741625</latitude>
+        <longitude>-84.59981</longitude>
         <address_complete>P.O. Box 30013, Lansing, MI 48909</address_complete>
         <address_number>null</address_number>
         <address_prefix>null</address_prefix>
@@ -881,8 +971,8 @@
         <biography>Tim Walz is the Democratic Governor of Minnesota. Walz was elected to the office on November 6, 2018.</biography>
         <phone>651-201-3400</phone>
         <fax>651-797-1850</fax>
-        <latitude>null</latitude>
-        <longitude>null</longitude>
+        <latitude>44.954546</latitude>
+        <longitude>-93.099553</longitude>
         <address_complete>130 State Capitol, 75 Rev Dr. Martin Luther King Jr. Blvd. St. Paul, MN 55155</address_complete>
         <address_number>130</address_number>
         <address_prefix>null</address_prefix>
@@ -899,51 +989,6 @@
         <twitter_handle>GovTimWalz</twitter_handle>
         <twitter_url>https://twitter.com/GovTimWalz</twitter_url>
         <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/tim-walz.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Mississippi</state_name>
-        <state_name_slug>mississippi</state_name_slug>
-        <state_code>MS</state_code>
-        <state_code_slug>ms</state_code_slug>
-        <votesmart>2126</votesmart>
-        <title>governor</title>
-        <party>republican</party>
-        <name>Dewey Bryant</name>
-        <name_slug>dewey-bryant</name_slug>
-        <first_name>Dewey</first_name>
-        <middle_name>Phillip</middle_name>
-        <last_name>Bryant</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>Phil</goes_by>
-        <pronunciation>FIL BRY-ant</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>united-methodist</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1954-12-09</date_of_birth>
-        <entered_office>2012-01-10</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>Dewey Phillip "Phil" Bryant (born December 9, 1954) is an American politician from the state of Mississippi who has served as the 64th Governor of Mississippi since 2012. He previously served as the 31st Lieutenant Governor of Mississippi from 2008 to 2012 and as the 40th State Auditor of Mississippi from 1996 to 2008.</biography>
-        <phone>601-359-3150</phone>
-        <fax>601-359-3741</fax>
-        <latitude>32.3504041</latitude>
-        <longitude>-90.1551408</longitude>
-        <address_complete>P.O. Box 139, Jackson, MS 39205</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Jackson</address_street>
-        <address_sec_unit_type>PO. Box</address_sec_unit_type>
-        <address_sec_unit_num>139</address_sec_unit_num>
-        <address_city>null</address_city>
-        <address_state>null</address_state>
-        <address_zipcode>null</address_zipcode>
-        <address_type>null</address_type>
-        <website>http://www.governorbryant.ms.gov/</website>
-        <contact_page>http://www.governorbryant.ms.gov/Pages/Contact.aspx</contact_page>
-        <facebook_url>https://www.facebook.com/im4phil</facebook_url>
-        <twitter_handle>PhilBryantMS</twitter_handle>
-        <twitter_url>https://twitter.com/PhilBryantMS</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/dewey-bryant.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Missouri</state_name>
@@ -1106,8 +1151,8 @@
         <biography>Steve Sisolak is the Democratic Governor of Nevada. Sisolak was elected to the office on November 6, 2018. Sisolak served as the District A representative on the Clark County Commission in Nevada from 2009 to 2019.</biography>
         <phone>775-684-5670</phone>
         <fax>775-684-5683</fax>
-        <latitude>null</latitude>
-        <longitude>null</longitude>
+        <latitude>39.163894</latitude>
+        <longitude>-119.766127</longitude>
         <address_complete>Capitol Building, 101 N. Carson St., Carson City, NV 89701</address_complete>
         <address_number>null</address_number>
         <address_prefix>null</address_prefix>
@@ -1126,49 +1171,139 @@
         <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/steve-sisolak.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>New Hampshire</state_name>
-        <state_name_slug>new-hampshire</state_name_slug>
-        <state_code>NH</state_code>
-        <state_code_slug>nh</state_code_slug>
-        <votesmart>125989</votesmart>
+        <state_name>Massachusetts</state_name>
+        <state_name_slug>massachusetts</state_name_slug>
+        <state_code>MA</state_code>
+        <state_code_slug>ma</state_code_slug>
+        <votesmart>124824</votesmart>
         <title>governor</title>
         <party>republican</party>
-        <name>Christopher Sununu</name>
-        <name_slug>christopher-sununu</name_slug>
-        <first_name>Christopher</first_name>
-        <middle_name>T.</middle_name>
-        <last_name>Sununu</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>Chris</goes_by>
-        <pronunciation>KRIS SUU-NOO-noo</pronunciation>
+        <name>Charles Baker</name>
+        <name_slug>charles-baker</name_slug>
+        <first_name>Charles</first_name>
+        <middle_name>Duane</middle_name>
+        <last_name>Baker</last_name>
+        <name_suffix>Jr.</name_suffix>
+        <goes_by>Charlie</goes_by>
+        <pronunciation>CHARR-lee BAY-ker</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>roman-catholic</religion>
+        <religion>protestant</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1974-11-05</date_of_birth>
-        <entered_office>2017-01-05</entered_office>
+        <date_of_birth>1956-11-13</date_of_birth>
+        <entered_office>2015-01-08</entered_office>
         <term_end>2019-01-01</term_end>
-        <biography>Christopher T. "Chris" Sununu (born November 5, 1974) is an American politician and businessman who serves as the 82nd and current Governor of New Hampshire, since January 2017. Sununu was previously a member of the New Hampshire Executive Council, an office he held from (2011-2017). At age 42, Sununu is currently the youngest state Governor in the United States.</biography>
-        <phone>603-271-2121</phone>
-        <fax>603-271-7680</fax>
-        <latitude>43.2069998</latitude>
-        <longitude>-71.5403939</longitude>
-        <address_complete>107 North Main Street, Concord, NH 03301</address_complete>
-        <address_number>107</address_number>
-        <address_prefix>North</address_prefix>
-        <address_street>Main</address_street>
+        <biography>Charles Duane "Charlie" Baker Jr. (born November 13, 1956), is an American businessman and the 72nd and current Governor of Massachusetts, having been sworn into office on January 8, 2015. He was a cabinet official under two Massachusetts governors, spent ten years as CEO of Harvard Pilgrim Health Care and was also the Republican nominee for governor of Massachusetts in an unsuccessful 2010 bid.</biography>
+        <phone>617-725-4005</phone>
+        <fax>617-727-9725</fax>
+        <latitude>42.3587723</latitude>
+        <longitude>-71.0660006</longitude>
+        <address_complete>Massachusetts State House, Office of the Governor, Room 280 Boston, MA 02133</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Massachusetts</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Concord</address_city>
-        <address_state>NH</address_state>
-        <address_zipcode>03301</address_zipcode>
-        <address_type>Street</address_type>
-        <website>http://www.governor.nh.gov/</website>
-        <contact_page>https://business.nh.gov/nhgovernor/comments.asp</contact_page>
-        <facebook_url>https://www.facebook.com/GovernorChrisSununu</facebook_url>
-        <twitter_handle>GovChrisSununu</twitter_handle>
-        <twitter_url>https://twitter.com/GovChrisSununu</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/christopher-sununu.jpg</photo_url>
+        <address_city>null</address_city>
+        <address_state>null</address_state>
+        <address_zipcode>null</address_zipcode>
+        <address_type>null</address_type>
+        <website>http://www.mass.gov/governor/</website>
+        <contact_page>http://www.mass.gov/governor/constituent-services/contact-governor-office/</contact_page>
+        <facebook_url>https://www.facebook.com/CharlieBakerMA</facebook_url>
+        <twitter_handle>massgovernor</twitter_handle>
+        <twitter_url>https://twitter.com/massgovernor</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/charles-baker.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Mississippi</state_name>
+        <state_name_slug>mississippi</state_name_slug>
+        <state_code>MS</state_code>
+        <state_code_slug>ms</state_code_slug>
+        <votesmart>2126</votesmart>
+        <title>governor</title>
+        <party>republican</party>
+        <name>Dewey Bryant</name>
+        <name_slug>dewey-bryant</name_slug>
+        <first_name>Dewey</first_name>
+        <middle_name>Phillip</middle_name>
+        <last_name>Bryant</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>Phil</goes_by>
+        <pronunciation>FIL BRY-ant</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>united-methodist</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1954-12-09</date_of_birth>
+        <entered_office>2012-01-10</entered_office>
+        <term_end>2019-01-01</term_end>
+        <biography>Dewey Phillip "Phil" Bryant (born December 9, 1954) is an American politician from the state of Mississippi who has served as the 64th Governor of Mississippi since 2012. He previously served as the 31st Lieutenant Governor of Mississippi from 2008 to 2012 and as the 40th State Auditor of Mississippi from 1996 to 2008.</biography>
+        <phone>601-359-3150</phone>
+        <fax>601-359-3741</fax>
+        <latitude>32.3504041</latitude>
+        <longitude>-90.1551408</longitude>
+        <address_complete>P.O. Box 139, Jackson, MS 39205</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Jackson</address_street>
+        <address_sec_unit_type>PO. Box</address_sec_unit_type>
+        <address_sec_unit_num>139</address_sec_unit_num>
+        <address_city>null</address_city>
+        <address_state>null</address_state>
+        <address_zipcode>null</address_zipcode>
+        <address_type>null</address_type>
+        <website>http://www.governorbryant.ms.gov/</website>
+        <contact_page>http://www.governorbryant.ms.gov/Pages/Contact.aspx</contact_page>
+        <facebook_url>https://www.facebook.com/im4phil</facebook_url>
+        <twitter_handle>PhilBryantMS</twitter_handle>
+        <twitter_url>https://twitter.com/PhilBryantMS</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/dewey-bryant.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>New Mexico</state_name>
+        <state_name_slug>new-mexico</state_name_slug>
+        <state_code>NM</state_code>
+        <state_code_slug>nm</state_code_slug>
+        <votesmart>102404</votesmart>
+        <title>governor</title>
+        <party>democrat</party>
+        <name>Michelle Lujan Grisham</name>
+        <name_slug>michelle-lujan-grisham</name_slug>
+        <first_name>Michelle</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Lujan Grisham</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>MI-shel LOO-hawn-GRIS-ham</pronunciation>
+        <gender>female</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1959-10-24</date_of_birth>
+        <entered_office>2019-01-01</entered_office>
+        <term_end>2022-12-31</term_end>
+        <biography>Michelle Lujan Grisham is the Democratic Governor of New Mexico. Grisham was elected to the office on November 6, 2018. Lujan Grisham served in the U.S. House, representing the 1st Congressional District of New Mexico, from 2013 to 2019.</biography>
+        <phone>505-476-2200</phone>
+        <fax>505-476-2226</fax>
+        <latitude>35.68291</latitude>
+        <longitude>-105.94205</longitude>
+        <address_complete>State Capitol, Fourth Floor, Santa Fe, NM 87501</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>State</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>null</address_city>
+        <address_state>null</address_state>
+        <address_zipcode>null</address_zipcode>
+        <address_type>null</address_type>
+        <website>http://www.governor.state.nm.us/</website>
+        <contact_page>https://www.governor.state.nm.us/contact/</contact_page>
+        <facebook_url>https://www.facebook.com/mlujangrisham/</facebook_url>
+        <twitter_handle>michelle4nm</twitter_handle>
+        <twitter_url>https://twitter.com/michelle4nm</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/michelle-lujan-grisham.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>New Jersey</state_name>
@@ -1214,141 +1349,6 @@
         <twitter_handle>philmurphynj</twitter_handle>
         <twitter_url>https://twitter.com/philmurphynj</twitter_url>
         <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/philip-murphy.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>New Mexico</state_name>
-        <state_name_slug>new-mexico</state_name_slug>
-        <state_code>NM</state_code>
-        <state_code_slug>nm</state_code_slug>
-        <votesmart>102404</votesmart>
-        <title>governor</title>
-        <party>democrat</party>
-        <name>Michelle Lujan Grisham</name>
-        <name_slug>michelle-lujan-grisham</name_slug>
-        <first_name>Michelle</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Lujan Grisham</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>MI-shel LOO-hawn-GRIS-ham</pronunciation>
-        <gender>female</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1959-10-24</date_of_birth>
-        <entered_office>2019-01-01</entered_office>
-        <term_end>2022-12-31</term_end>
-        <biography>Michelle Lujan Grisham is the Democratic Governor of New Mexico. Grisham was elected to the office on November 6, 2018. Lujan Grisham served in the U.S. House, representing the 1st Congressional District of New Mexico, from 2013 to 2019.</biography>
-        <phone>505-476-2200</phone>
-        <fax>505-476-2226</fax>
-        <latitude>null</latitude>
-        <longitude>null</longitude>
-        <address_complete>State Capitol, Fourth Floor, Santa Fe, NM 87501</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>State</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>null</address_city>
-        <address_state>null</address_state>
-        <address_zipcode>null</address_zipcode>
-        <address_type>null</address_type>
-        <website>http://www.governor.state.nm.us/</website>
-        <contact_page>https://www.governor.state.nm.us/contact/</contact_page>
-        <facebook_url>https://www.facebook.com/mlujangrisham/</facebook_url>
-        <twitter_handle>michelle4nm</twitter_handle>
-        <twitter_url>https://twitter.com/michelle4nm</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/michelle-lujan-grisham.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>New York</state_name>
-        <state_name_slug>new-york</state_name_slug>
-        <state_code>NY</state_code>
-        <state_code_slug>ny</state_code_slug>
-        <votesmart>45083</votesmart>
-        <title>governor</title>
-        <party>democrat</party>
-        <name>Andrew Cuomo</name>
-        <name_slug>andrew-cuomo</name_slug>
-        <first_name>Andrew</first_name>
-        <middle_name>Mark</middle_name>
-        <last_name>Cuomo</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>AN-droo KWOH-moh</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>roman-catholic</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1957-12-06</date_of_birth>
-        <entered_office>2011-01-01</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>Andrew Mark Cuomo (born December 6, 1957) is an American politician and attorney who has been the 56th Governor of New York since January 1, 2011. A member of the Democratic Party, he was elected in 2010, holding the same position his father, Mario Cuomo, held for three terms from 1983 to 1995.</biography>
-        <phone>518-474-8390</phone>
-        <fax>null</fax>
-        <latitude>42.6497791</latitude>
-        <longitude>-73.7618584</longitude>
-        <address_complete>Governor, State Capitol Building, Albany, NY 12224</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Governor</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>null</address_city>
-        <address_state>null</address_state>
-        <address_zipcode>null</address_zipcode>
-        <address_type>null</address_type>
-        <website>http://www.governor.ny.gov/</website>
-        <contact_page>http://www.governor.ny.gov/contact-iframe</contact_page>
-        <facebook_url>https://www.facebook.com/GovernorAndrewCuomo</facebook_url>
-        <twitter_handle>nygovcuomo</twitter_handle>
-        <twitter_url>https://twitter.com/nygovcuomo</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/andrew-cuomo.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>North Carolina</state_name>
-        <state_name_slug>north-carolina</state_name_slug>
-        <state_code>NC</state_code>
-        <state_code_slug>nc</state_code_slug>
-        <votesmart>5900</votesmart>
-        <title>governor</title>
-        <party>democrat</party>
-        <name>Roy Cooper</name>
-        <name_slug>roy-cooper</name_slug>
-        <first_name>Roy</first_name>
-        <middle_name>Asberry</middle_name>
-        <last_name>Cooper</last_name>
-        <name_suffix>III</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>ROY KOO-per</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>presbyterian</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1957-06-13</date_of_birth>
-        <entered_office>2017-01-01</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>Roy Asberry Cooper III (born June 13, 1957) is an American politician and attorney who is the 75th and current Governor of North Carolina, since January 2017. Prior to his governorship, Cooper had served as the Attorney General of North Carolina from 2001 to 2017 and was previously a member of the North Carolina State Senate.</biography>
-        <phone>919-814-2000</phone>
-        <fax>919-733-2120</fax>
-        <latitude>35.8093599</latitude>
-        <longitude>-78.7094088</longitude>
-        <address_complete>20301 Mail Service Center, Raleigh, NC 27699</address_complete>
-        <address_number>20301</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Mail Service</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Raleigh</address_city>
-        <address_state>NC</address_state>
-        <address_zipcode>27699</address_zipcode>
-        <address_type>Center</address_type>
-        <website>https://governor.nc.gov/</website>
-        <contact_page>https://governor.nc.gov/contact-governor-cooper</contact_page>
-        <facebook_url>https://www.facebook.com/NCgovernor</facebook_url>
-        <twitter_handle>NC_Governor</twitter_handle>
-        <twitter_url>https://twitter.com/NC_Governor</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/roy-cooper.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>North Dakota</state_name>
@@ -1421,8 +1421,8 @@
         <biography>Richard Michael DeWine is the Republican Governor of Ohio. DeWine was elected to the office on November 6, 2018.</biography>
         <phone>614-466-3555</phone>
         <fax>614-466-9354</fax>
-        <latitude>null</latitude>
-        <longitude>null</longitude>
+        <latitude>39.9606364</latitude>
+        <longitude>-83.0031631</longitude>
         <address_complete>77 South High Street, 30th Floor, Columbus, OH 43215</address_complete>
         <address_number>77</address_number>
         <address_prefix>South</address_prefix>
@@ -1466,8 +1466,8 @@
         <biography>Kevin Stitt is the Republican Governor of Oklahoma. Stitt was elected to the office on November 6, 2018.</biography>
         <phone>405-521-2342</phone>
         <fax>405-521-3353</fax>
-        <latitude>null</latitude>
-        <longitude>null</longitude>
+        <latitude>35.460835</latitude>
+        <longitude>-97.499706</longitude>
         <address_complete>Capitol Building, 2300 Lincoln Blvd., Rm. 212, Oklahoma City, OK 73105</address_complete>
         <address_number>null</address_number>
         <address_prefix>null</address_prefix>
@@ -1691,8 +1691,8 @@
         <biography>Kristi L. Noem is the Republican Governor of South Dakota. Noem was elected to the office on November 6, 2018. Noem is a former Republican member of the U.S. House of Representatives from the state of South Dakota. She represented South Dakota's At-Large Congressional District from 2011 to 2019.</biography>
         <phone>605-773-3212</phone>
         <fax>605-773-4711</fax>
-        <latitude>null</latitude>
-        <longitude>null</longitude>
+        <latitude>44.367121</latitude>
+        <longitude>-100.346159</longitude>
         <address_complete>500 East Capitol Avenue, Piere, SD 57501</address_complete>
         <address_number>500</address_number>
         <address_prefix>East</address_prefix>
@@ -1711,49 +1711,49 @@
         <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/kristi-noem.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Tennessee</state_name>
-        <state_name_slug>tennessee</state_name_slug>
-        <state_code>TN</state_code>
-        <state_code_slug>tn</state_code_slug>
-        <votesmart>180465</votesmart>
+        <state_name>New York</state_name>
+        <state_name_slug>new-york</state_name_slug>
+        <state_code>NY</state_code>
+        <state_code_slug>ny</state_code_slug>
+        <votesmart>45083</votesmart>
         <title>governor</title>
-        <party>republican</party>
-        <name>Bill Lee</name>
-        <name_slug>bill-lee</name_slug>
-        <first_name>Bill</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Lee</last_name>
+        <party>democrat</party>
+        <name>Andrew Cuomo</name>
+        <name_slug>andrew-cuomo</name_slug>
+        <first_name>Andrew</first_name>
+        <middle_name>Mark</middle_name>
+        <last_name>Cuomo</last_name>
         <name_suffix>null</name_suffix>
         <goes_by>null</goes_by>
-        <pronunciation>BIL LEE</pronunciation>
+        <pronunciation>AN-droo KWOH-moh</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>christian</religion>
+        <religion>roman-catholic</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1959-10-09</date_of_birth>
-        <entered_office>2019-01-01</entered_office>
-        <term_end>2022-12-31</term_end>
-        <biography>Bill Lee is the Republican Governor of Tennessee. Lee was elected to the office on November 6, 2018.</biography>
-        <phone>615-741-2001</phone>
-        <fax>615-532-9711</fax>
-        <latitude>null</latitude>
-        <longitude>null</longitude>
-        <address_complete>Tennessee State Capitol, Nashville, TN 37243-0001</address_complete>
+        <date_of_birth>1957-12-06</date_of_birth>
+        <entered_office>2011-01-01</entered_office>
+        <term_end>2019-01-01</term_end>
+        <biography>Andrew Mark Cuomo (born December 6, 1957) is an American politician and attorney who has been the 56th Governor of New York since January 1, 2011. A member of the Democratic Party, he was elected in 2010, holding the same position his father, Mario Cuomo, held for three terms from 1983 to 1995.</biography>
+        <phone>518-474-8390</phone>
+        <fax>null</fax>
+        <latitude>42.6497791</latitude>
+        <longitude>-73.7618584</longitude>
+        <address_complete>Governor, State Capitol Building, Albany, NY 12224</address_complete>
         <address_number>null</address_number>
         <address_prefix>null</address_prefix>
-        <address_street>Tennessee</address_street>
+        <address_street>Governor</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
         <address_city>null</address_city>
         <address_state>null</address_state>
         <address_zipcode>null</address_zipcode>
         <address_type>null</address_type>
-        <website>https://www.tn.gov/governor</website>
-        <contact_page>https://www.tn.gov/governor/contact-us.html</contact_page>
-        <facebook_url>https://www.facebook.com/BillLeeTN/</facebook_url>
-        <twitter_handle>billleetn</twitter_handle>
-        <twitter_url>https://twitter.com/billleetn</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/bill-lee.jpg</photo_url>
+        <website>http://www.governor.ny.gov/</website>
+        <contact_page>http://www.governor.ny.gov/contact-iframe</contact_page>
+        <facebook_url>https://www.facebook.com/GovernorAndrewCuomo</facebook_url>
+        <twitter_handle>nygovcuomo</twitter_handle>
+        <twitter_url>https://twitter.com/nygovcuomo</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/andrew-cuomo.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Texas</state_name>
@@ -1981,6 +1981,141 @@
         <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/jay-inslee.jpg</photo_url>
     </councilor>
     <councilor>
+        <state_name>North Carolina</state_name>
+        <state_name_slug>north-carolina</state_name_slug>
+        <state_code>NC</state_code>
+        <state_code_slug>nc</state_code_slug>
+        <votesmart>5900</votesmart>
+        <title>governor</title>
+        <party>democrat</party>
+        <name>Roy Cooper</name>
+        <name_slug>roy-cooper</name_slug>
+        <first_name>Roy</first_name>
+        <middle_name>Asberry</middle_name>
+        <last_name>Cooper</last_name>
+        <name_suffix>III</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>ROY KOO-per</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>presbyterian</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1957-06-13</date_of_birth>
+        <entered_office>2017-01-01</entered_office>
+        <term_end>2019-01-01</term_end>
+        <biography>Roy Asberry Cooper III (born June 13, 1957) is an American politician and attorney who is the 75th and current Governor of North Carolina, since January 2017. Prior to his governorship, Cooper had served as the Attorney General of North Carolina from 2001 to 2017 and was previously a member of the North Carolina State Senate.</biography>
+        <phone>919-814-2000</phone>
+        <fax>919-733-2120</fax>
+        <latitude>35.8093599</latitude>
+        <longitude>-78.7094088</longitude>
+        <address_complete>20301 Mail Service Center, Raleigh, NC 27699</address_complete>
+        <address_number>20301</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Mail Service</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Raleigh</address_city>
+        <address_state>NC</address_state>
+        <address_zipcode>27699</address_zipcode>
+        <address_type>Center</address_type>
+        <website>https://governor.nc.gov/</website>
+        <contact_page>https://governor.nc.gov/contact-governor-cooper</contact_page>
+        <facebook_url>https://www.facebook.com/NCgovernor</facebook_url>
+        <twitter_handle>NC_Governor</twitter_handle>
+        <twitter_url>https://twitter.com/NC_Governor</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/roy-cooper.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Wisconsin</state_name>
+        <state_name_slug>wisconsin</state_name_slug>
+        <state_code>WI</state_code>
+        <state_code_slug>wi</state_code_slug>
+        <votesmart>112861</votesmart>
+        <title>governor</title>
+        <party>democrat</party>
+        <name>Tony Evers</name>
+        <name_slug>tony-evers</name_slug>
+        <first_name>Tony</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Evers</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>TOH-nee E-verz</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>unspecified</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1951-11-05</date_of_birth>
+        <entered_office>2019-01-01</entered_office>
+        <term_end>2022-12-31</term_end>
+        <biography>Tony Evers is the Democratic Governor of Wisconsin. Evers was elected to the office on November 6, 2018.</biography>
+        <phone>608-266-1212</phone>
+        <fax>608-267-8983</fax>
+        <latitude>43.0747036</latitude>
+        <longitude>-89.385863</longitude>
+        <address_complete>115 East State Capitol, Madison, Wi 53707</address_complete>
+        <address_number>115</address_number>
+        <address_prefix>East</address_prefix>
+        <address_street>State Capitol</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>Madison</address_city>
+        <address_state>Wi</address_state>
+        <address_zipcode>53707</address_zipcode>
+        <address_type>null</address_type>
+        <website>http://www.wisgov.state.wi.us/</website>
+        <contact_page>https://evers.wi.gov/Pages/connect.aspx</contact_page>
+        <facebook_url>https://www.facebook.com/Tony4WI/</facebook_url>
+        <twitter_handle>tony4wi</twitter_handle>
+        <twitter_url>https://twitter.com/tony4wi</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/tony-evers.jpg</photo_url>
+    </councilor>
+    <councilor>
+        <state_name>Tennessee</state_name>
+        <state_name_slug>tennessee</state_name_slug>
+        <state_code>TN</state_code>
+        <state_code_slug>tn</state_code_slug>
+        <votesmart>180465</votesmart>
+        <title>governor</title>
+        <party>republican</party>
+        <name>Bill Lee</name>
+        <name_slug>bill-lee</name_slug>
+        <first_name>Bill</first_name>
+        <middle_name>null</middle_name>
+        <last_name>Lee</last_name>
+        <name_suffix>null</name_suffix>
+        <goes_by>null</goes_by>
+        <pronunciation>BIL LEE</pronunciation>
+        <gender>male</gender>
+        <ethnicity>white-american</ethnicity>
+        <religion>christian</religion>
+        <openly_lgbtq>null</openly_lgbtq>
+        <date_of_birth>1959-10-09</date_of_birth>
+        <entered_office>2019-01-01</entered_office>
+        <term_end>2022-12-31</term_end>
+        <biography>Bill Lee is the Republican Governor of Tennessee. Lee was elected to the office on November 6, 2018.</biography>
+        <phone>615-741-2001</phone>
+        <fax>615-532-9711</fax>
+        <latitude>36.165832</latitude>
+        <longitude>-86.78423</longitude>
+        <address_complete>Tennessee State Capitol, Nashville, TN 37243-0001</address_complete>
+        <address_number>null</address_number>
+        <address_prefix>null</address_prefix>
+        <address_street>Tennessee</address_street>
+        <address_sec_unit_type>null</address_sec_unit_type>
+        <address_sec_unit_num>null</address_sec_unit_num>
+        <address_city>null</address_city>
+        <address_state>null</address_state>
+        <address_zipcode>null</address_zipcode>
+        <address_type>null</address_type>
+        <website>https://www.tn.gov/governor</website>
+        <contact_page>https://www.tn.gov/governor/contact-us.html</contact_page>
+        <facebook_url>https://www.facebook.com/BillLeeTN/</facebook_url>
+        <twitter_handle>billleetn</twitter_handle>
+        <twitter_url>https://twitter.com/billleetn</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/bill-lee.jpg</photo_url>
+    </councilor>
+    <councilor>
         <state_name>West Virginia</state_name>
         <state_name_slug>west-virginia</state_name_slug>
         <state_code>WV</state_code>
@@ -2026,184 +2161,49 @@
         <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/james-justice.jpg</photo_url>
     </councilor>
     <councilor>
-        <state_name>Wisconsin</state_name>
-        <state_name_slug>wisconsin</state_name_slug>
-        <state_code>WI</state_code>
-        <state_code_slug>wi</state_code_slug>
-        <votesmart>112861</votesmart>
-        <title>governor</title>
-        <party>democrat</party>
-        <name>Tony Evers</name>
-        <name_slug>tony-evers</name_slug>
-        <first_name>Tony</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Evers</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>TOH-nee E-verz</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1951-11-05</date_of_birth>
-        <entered_office>2019-01-01</entered_office>
-        <term_end>2022-12-31</term_end>
-        <biography>Tony Evers is the Democratic Governor of Wisconsin. Evers was elected to the office on November 6, 2018.</biography>
-        <phone>608-266-1212</phone>
-        <fax>608-267-8983</fax>
-        <latitude>null</latitude>
-        <longitude>null</longitude>
-        <address_complete>115 East State Capitol, Madison, Wi 53707</address_complete>
-        <address_number>115</address_number>
-        <address_prefix>East</address_prefix>
-        <address_street>State Capitol</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Madison</address_city>
-        <address_state>Wi</address_state>
-        <address_zipcode>53707</address_zipcode>
-        <address_type>null</address_type>
-        <website>http://www.wisgov.state.wi.us/</website>
-        <contact_page>https://evers.wi.gov/Pages/connect.aspx</contact_page>
-        <facebook_url>https://www.facebook.com/Tony4WI/</facebook_url>
-        <twitter_handle>tony4wi</twitter_handle>
-        <twitter_url>https://twitter.com/tony4wi</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/tony-evers.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Hawaii</state_name>
-        <state_name_slug>hawaii</state_name_slug>
-        <state_code>HI</state_code>
-        <state_code_slug>hi</state_code_slug>
-        <votesmart>3406</votesmart>
-        <title>governor</title>
-        <party>democrat</party>
-        <name>David Ige</name>
-        <name_slug>david-ige</name_slug>
-        <first_name>David</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Ige</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>null</goes_by>
-        <pronunciation>DAY-vid EE-gay</pronunciation>
-        <gender>male</gender>
-        <ethnicity>pacific-islander</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1957-01-15</date_of_birth>
-        <entered_office>2014-01-12</entered_office>
-        <term_end>2019-01-01</term_end>
-        <biography>David Yutaka Ige (born January 15, 1957) is an American politician who serves as the eighth and current Governor of Hawaii, in office since 2014. A Democrat, he previously served in the Hawaii State Senate, representing the 16th district, from 1995 to 2014. In the 2014 Hawaii gubernatorial election, he won the Democratic primary by defeating incumbent Governor Neil Abercrombie with 66% of the vote.</biography>
-        <phone>808-586-0034</phone>
-        <fax>808-586-0006</fax>
-        <latitude>21.307764</latitude>
-        <longitude>-157.8594961</longitude>
-        <address_complete>415 South Beretania Street, Honolulu, HI 96813</address_complete>
-        <address_number>415</address_number>
-        <address_prefix>South</address_prefix>
-        <address_street>Beretania</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Honolulu</address_city>
-        <address_state>HI</address_state>
-        <address_zipcode>96813</address_zipcode>
-        <address_type>Street</address_type>
-        <website>http://governor.hawaii.gov</website>
-        <contact_page>https://governor.hawaii.gov/contact-us/contact-the-governor/</contact_page>
-        <facebook_url>https://www.facebook.com/GovernorDavidIge</facebook_url>
-        <twitter_handle>GovHawaii</twitter_handle>
-        <twitter_url>https://twitter.com/GovHawaii</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/david-ige.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Florida</state_name>
-        <state_name_slug>florida</state_name_slug>
-        <state_code>FL</state_code>
-        <state_code_slug>fl</state_code_slug>
-        <votesmart>137630</votesmart>
+        <state_name>New Hampshire</state_name>
+        <state_name_slug>new-hampshire</state_name_slug>
+        <state_code>NH</state_code>
+        <state_code_slug>nh</state_code_slug>
+        <votesmart>125989</votesmart>
         <title>governor</title>
         <party>republican</party>
-        <name>Ronald DeSantis</name>
-        <name_slug>ronald-desantis</name_slug>
-        <first_name>Ronald</first_name>
-        <middle_name>null</middle_name>
-        <last_name>DeSantis</last_name>
+        <name>Christopher Sununu</name>
+        <name_slug>christopher-sununu</name_slug>
+        <first_name>Christopher</first_name>
+        <middle_name>T.</middle_name>
+        <last_name>Sununu</last_name>
         <name_suffix>null</name_suffix>
-        <goes_by>Ron</goes_by>
-        <pronunciation>RAWN DI-SAHN-tis</pronunciation>
+        <goes_by>Chris</goes_by>
+        <pronunciation>KRIS SUU-NOO-noo</pronunciation>
         <gender>male</gender>
         <ethnicity>white-american</ethnicity>
-        <religion>christian</religion>
+        <religion>roman-catholic</religion>
         <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1978-09-14</date_of_birth>
-        <entered_office>2019-01-08</entered_office>
-        <term_end>2022-12-31</term_end>
-        <biography>Ronald Dion DeSantis is an American veteran and politician serving as the 46th and current Governor of Florida since 2019. A member of the Republican Party, he previously represented Florida's 6th congressional district in the United States House of Representatives from 2013 to 2018. After graduating from Yale University and Harvard Law School, DeSantis served as an officer and attorney in the Judge Advocate General's Corps, U.S. Navy (JAG).</biography>
-        <phone>850-488-7146</phone>
-        <fax>850-487-0801</fax>
-        <latitude>null</latitude>
-        <longitude>null</longitude>
-        <address_complete>PL 05 The Capitol, 400 South Monroe Street, Tallahassee, FL  32399-0001</address_complete>
-        <address_number>null</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>PL</address_street>
+        <date_of_birth>1974-11-05</date_of_birth>
+        <entered_office>2017-01-05</entered_office>
+        <term_end>2019-01-01</term_end>
+        <biography>Christopher T. "Chris" Sununu (born November 5, 1974) is an American politician and businessman who serves as the 82nd and current Governor of New Hampshire, since January 2017. Sununu was previously a member of the New Hampshire Executive Council, an office he held from (2011-2017). At age 42, Sununu is currently the youngest state Governor in the United States.</biography>
+        <phone>603-271-2121</phone>
+        <fax>603-271-7680</fax>
+        <latitude>43.2069998</latitude>
+        <longitude>-71.5403939</longitude>
+        <address_complete>107 North Main Street, Concord, NH 03301</address_complete>
+        <address_number>107</address_number>
+        <address_prefix>North</address_prefix>
+        <address_street>Main</address_street>
         <address_sec_unit_type>null</address_sec_unit_type>
         <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>null</address_city>
-        <address_state>null</address_state>
-        <address_zipcode>null</address_zipcode>
-        <address_type>null</address_type>
-        <website>http://www.flgov.com/</website>
-        <contact_page>https://www.flgov.com/contact-governor/</contact_page>
-        <facebook_url>https://www.facebook.com/RonDeSantisFlorida/</facebook_url>
-        <twitter_handle>rondesantisfl</twitter_handle>
-        <twitter_url>https://twitter.com/rondesantisfl</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/ronald-desantis.jpg</photo_url>
-    </councilor>
-    <councilor>
-        <state_name>Connecticut</state_name>
-        <state_name_slug>connecticut</state_name_slug>
-        <state_code>CT</state_code>
-        <state_code_slug>ct</state_code_slug>
-        <votesmart>68381</votesmart>
-        <title>governor</title>
-        <party>democrat</party>
-        <name>Edward Lamont</name>
-        <name_slug>edward-lamont</name_slug>
-        <first_name>Edward</first_name>
-        <middle_name>null</middle_name>
-        <last_name>Lamont</last_name>
-        <name_suffix>null</name_suffix>
-        <goes_by>Ned</goes_by>
-        <pronunciation>ED-werd LUH-mahnt</pronunciation>
-        <gender>male</gender>
-        <ethnicity>white-american</ethnicity>
-        <religion>unspecified</religion>
-        <openly_lgbtq>null</openly_lgbtq>
-        <date_of_birth>1954-01-03</date_of_birth>
-        <entered_office>2019-01-09</entered_office>
-        <term_end>2022-12-31</term_end>
-        <biography>Edward Miner Lamont Jr. is an American businessman and politician who is the 89th governor of Connecticut. He is a member of the Democratic Party.</biography>
-        <phone>800-406-1527</phone>
-        <fax>860-524-7395</fax>
-        <latitude>null</latitude>
-        <longitude>null</longitude>
-        <address_complete>210 Capitol Avenue, Hartford CT, 6106</address_complete>
-        <address_number>210</address_number>
-        <address_prefix>null</address_prefix>
-        <address_street>Capitol</address_street>
-        <address_sec_unit_type>null</address_sec_unit_type>
-        <address_sec_unit_num>null</address_sec_unit_num>
-        <address_city>Hartford</address_city>
-        <address_state>CT</address_state>
-        <address_zipcode>null</address_zipcode>
-        <address_type>Avenue</address_type>
-        <website>https://portal.ct.gov/Office-of-the-Governor</website>
-        <contact_page>https://portal.ct.gov/Office-of-the-Governor/Contact/Email-Governor-Lamont</contact_page>
-        <facebook_url>https://www.facebook.com/NedLamontCT/</facebook_url>
-        <twitter_handle>GovNedLamont</twitter_handle>
-        <twitter_url>https://twitter.com/GovNedLamont</twitter_url>
-        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/edward-lamont.jpg</photo_url>
+        <address_city>Concord</address_city>
+        <address_state>NH</address_state>
+        <address_zipcode>03301</address_zipcode>
+        <address_type>Street</address_type>
+        <website>http://www.governor.nh.gov/</website>
+        <contact_page>https://business.nh.gov/nhgovernor/comments.asp</contact_page>
+        <facebook_url>https://www.facebook.com/GovernorChrisSununu</facebook_url>
+        <twitter_handle>GovChrisSununu</twitter_handle>
+        <twitter_url>https://twitter.com/GovChrisSununu</twitter_url>
+        <photo_url>https://cdn.civil.services/us-governors/headshots/512x512/christopher-sununu.jpg</photo_url>
     </councilor>
     <councilor>
         <state_name>Wyoming</state_name>
@@ -2231,8 +2231,8 @@
         <biography>Mark Gordon is the Republican Governor of Wyoming. Gordon was elected to the office on November 6, 2018.</biography>
         <phone>307-777-7434</phone>
         <fax>307-632-3909</fax>
-        <latitude>null</latitude>
-        <longitude>null</longitude>
+        <latitude>45.25194</latitude>
+        <longitude>-75.731227</longitude>
         <address_complete>State Capitol Building, Room 124, Cheyenne, WY 82002</address_complete>
         <address_number>null</address_number>
         <address_prefix>null</address_prefix>
