@@ -1,6 +1,6 @@
 {
   "name": "civil-services-us-governors",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "United States Governors. Demographics, Headshots, Legislator Data & Social Media Links ( JSON, XML, CSV, SQL, XLSX  & YML formats )",
   "license": "MIT",
   "keywords": [
@@ -68,9 +68,11 @@
     "resize-backgrounds": "node ./.scripts/resize-backgrounds.js",
     "console-headshots": "node ./.scripts/console-headshots.js",
     "convert-csv": "if ( test -e ./source/us-governors.csv ); then node ./.scripts/convert-csv.js; else echo '\n× Missing ./source/us-governors.csv ( see ./source/README.md )\n'; fi",
+    "build-geojson": "node ./.scripts/create-geojson.js",
+    "build-seeder": "node ./.scripts/create-seeder.js",
     "build-images": "npm run -s resize-headshots && npm run -s resize-backgrounds && echo '\n☆ Image Conversion Complete\n'",
     "build-data": "if ( test -e ./us-governors/data/us-governors.csv ); then npm run -s csv-to-json && npm run -s json-to-yml && npm run -s json-to-xml && npm run -s csv-to-sql && echo '\n☆ Data Conversion Complete\n'; else echo '\n× Missing ./us-governors/data/us-governors.csv\n'; fi",
-    "build": "npm run -s convert-csv && npm run -s build && npm run -s build-images && echo '\n☆ヽ(´▽｀)ノ All Done \n'"
+    "build": "npm run -s convert-csv && npm run -s build-data && npm run -s build-seeder && npm run -s build-geojson && npm run -s build-images && echo '\n☆ヽ(´▽｀)ノ All Done \n'"
   },
   "devDependencies": {
     "bluebird": "^3.4.7",
