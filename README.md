@@ -63,7 +63,7 @@ This project offers data for the United States Governors in the following format
 
 * [CSV](us-governors/data/us-governors.csv)
 * [JSON](us-governors/data/us-governors.json)
-* [SQL](us-governors/data/us-governors.sql) & [SQL Table](us-governors/data/us-governors.table.sql) 
+* [SQL](us-governors/data/us-governors.sql) & [SQL Table](us-governors/data/us-governors.table.sql)
 * [XML](us-governors/data/us-governors.xml)
 * [YML](us-governors/data/us-governors.yml)
 
