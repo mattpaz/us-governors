@@ -37,9 +37,9 @@
     address_state: "AL"
     address_zipcode: "36130"
     address_type: "Ave"
-    website: "http://governor.alabama.gov"
-    contact_page: "http://governor.alabama.gov/contact"
-    facebook_url: "https://www.facebook.com/KayIveyAL"
+    website: "https://governor.alabama.gov"
+    contact_page: "https://governor.alabama.gov/contact"
+    facebook_url: "https://facebook.com/KayIveyAL"
     twitter_handle: "GovernorKayIvey"
     twitter_url: "https://twitter.com/GovernorKayIvey"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/kay-ivey.jpg"
@@ -65,72 +65,28 @@
     openly_lgbtq: null
     date_of_birth: "1961-05-05"
     entered_office: "2018-12-03"
-    term_end: "2022-12-31"
+    term_end: "2022-01-01"
     biography: "Mike J. Dunleavy (born May 5, 1961) is an American politician who is the 12th and current governor of Alaska, since 2018. A Republican, Dunleavy was a member of the Alaska Senate from 2013 through 2018. Dunleavy defeated former Democratic United States Senator Mark Begich in the 2018 gubernatorial election."
     phone: "907-465-3500"
     fax: "907-465-3532"
-    latitude: "11.696815"
-    longitude: "122.36887"
-    address_complete: "Office of the Governor, Post Office Box 110001, Juneau, AK 99811-0001"
-    address_number: null
+    latitude: "58.301677"
+    longitude: "-134.410995"
+    address_complete: "120 4th St, Juneau, AK 99801"
+    address_number: "120"
     address_prefix: null
-    address_street: "of"
-    address_sec_unit_type: "Office"
+    address_street: "4th"
+    address_sec_unit_type: null
     address_sec_unit_num: null
-    address_city: null
-    address_state: null
-    address_zipcode: null
-    address_type: null
+    address_city: "Juneau"
+    address_state: "AK"
+    address_zipcode: "99801"
+    address_type: "St"
     website: "https://gov.alaska.gov/"
     contact_page: "https://gov.alaska.gov/contact/"
-    facebook_url: "https://www.facebook.com/GovDunleavy"
+    facebook_url: "https://facebook.com/GovDunleavy"
     twitter_handle: "GovDunleavy"
     twitter_url: "https://twitter.com/GovDunleavy"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/mike-dunleavy.jpg"
-  - 
-    state_name: "Arizona"
-    state_name_slug: "arizona"
-    state_code: "AZ"
-    state_code_slug: "az"
-    votesmart: "123548"
-    title: "governor"
-    party: "republican"
-    name: "Douglas Ducey"
-    name_slug: "douglas-ducey"
-    first_name: "Douglas"
-    middle_name: "Anthony"
-    last_name: "Ducey"
-    name_suffix: null
-    goes_by: "Doug"
-    pronunciation: "DOAG DOO-see"
-    gender: "male"
-    ethnicity: "white-american"
-    religion: "roman-catholic"
-    openly_lgbtq: null
-    date_of_birth: "1964-04-09"
-    entered_office: "2015-01-05"
-    term_end: "2023-01-01"
-    biography: "Douglas Anthony Ducey (born April 9, 1964) is an American businessman who is the 23rd and current governor of the U.S. State of Arizona. He is a member of the Republican Party, and was sworn in as governor on January 5, 2015. Prior to his governorship, he served as the state's 42nd treasurer. He is also the first man to serve as Arizona Governor in over 17 years."
-    phone: "602-542-4331"
-    fax: "602-542-7601"
-    latitude: "33.4481208"
-    longitude: "-112.0992236"
-    address_complete: "1700 West Washington Street, Phoenix, AZ 85007"
-    address_number: "1700"
-    address_prefix: "W"
-    address_street: "Washington"
-    address_sec_unit_type: null
-    address_sec_unit_num: null
-    address_city: "Phoenix"
-    address_state: "AZ"
-    address_zipcode: "85007"
-    address_type: "St"
-    website: "http://azgovernor.gov"
-    contact_page: "http://azgovernor.gov/engage/form/contact-governor-ducey"
-    facebook_url: "https://www.facebook.com/dougducey"
-    twitter_handle: "dougducey"
-    twitter_url: "https://twitter.com/dougducey"
-    photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/douglas-ducey.jpg"
   - 
     state_name: "Arkansas"
     state_name_slug: "arkansas"
@@ -169,9 +125,9 @@
     address_state: null
     address_zipcode: null
     address_type: null
-    website: "http://governor.arkansas.gov"
-    contact_page: "http://governor.arkansas.gov/contact-info"
-    facebook_url: "https://www.facebook.com/asaforarkansas"
+    website: "https://governor.arkansas.gov"
+    contact_page: "https://governor.arkansas.gov/contact-info"
+    facebook_url: "https://facebook.com/asaforarkansas"
     twitter_handle: "AsaHutchinson"
     twitter_url: "https://twitter.com/AsaHutchinson"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/asa-hutchinson.jpg"
@@ -213,56 +169,12 @@
     address_state: null
     address_zipcode: null
     address_type: null
-    website: "http://gov.ca.gov/"
+    website: "https://gov.ca.gov/"
     contact_page: "https://govapps.gov.ca.gov/gov40mail/"
-    facebook_url: "https://www.facebook.com/GavinNewsom"
+    facebook_url: "https://facebook.com/GavinNewsom"
     twitter_handle: "GavinNewsom"
     twitter_url: "https://twitter.com/GavinNewsom"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/gavin-newsom.jpg"
-  - 
-    state_name: "Colorado"
-    state_name_slug: "colorado"
-    state_code: "CO"
-    state_code_slug: "co"
-    votesmart: "106220"
-    title: "governor"
-    party: "democrat"
-    name: "Jared Polis"
-    name_slug: "jared-polis"
-    first_name: "Jared"
-    middle_name: null
-    last_name: "Polis"
-    name_suffix: null
-    goes_by: null
-    pronunciation: "JA-rid PAW-lis"
-    gender: "male"
-    ethnicity: "white-american"
-    religion: "jewish"
-    openly_lgbtq: null
-    date_of_birth: "1975-05-12"
-    entered_office: "2019-01-08"
-    term_end: "2022-12-31"
-    biography: "Jared Schutz Polis is an American politician, entrepreneur, and philanthropist who is the 43rd Governor of Colorado. From 2009 to 2019, he was the United States Representative for Colorado's 2nd congressional district. Polis was elected Governor of Colorado in 2018, making him the first openly gay man elected governor in the United States, the second openly LGBT person elected governor in the United States (after Governor Kate Brown of Oregon), and the first Jewish person elected governor of Colorado."
-    phone: "303-866-2471"
-    fax: "303-866-2003"
-    latitude: "39.73921"
-    longitude: "-104.98497"
-    address_complete: "136 State Capitol, Denver CO, 80203-1792"
-    address_number: "136"
-    address_prefix: null
-    address_street: "State Capitol"
-    address_sec_unit_type: null
-    address_sec_unit_num: null
-    address_city: "Denver"
-    address_state: "CO"
-    address_zipcode: "80203"
-    address_type: null
-    website: "http://www.colorado.gov/governor/"
-    contact_page: "https://www.colorado.gov/governor/contact"
-    facebook_url: "https://www.facebook.com/PolisForColorado"
-    twitter_handle: "jaredpolis"
-    twitter_url: "https://twitter.com/jaredpolis"
-    photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/jared-polis.jpg"
   - 
     state_name: "Connecticut"
     state_name_slug: "connecticut"
@@ -303,7 +215,7 @@
     address_type: "Ave"
     website: "https://portal.ct.gov/Office-of-the-Governor"
     contact_page: "https://portal.ct.gov/Office-of-the-Governor/Contact/Email-Governor-Lamont"
-    facebook_url: "https://www.facebook.com/NedLamontCT"
+    facebook_url: "https://facebook.com/NedLamontCT"
     twitter_handle: "GovNedLamont"
     twitter_url: "https://twitter.com/GovNedLamont"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/edward-lamont.jpg"
@@ -345,9 +257,9 @@
     address_state: null
     address_zipcode: null
     address_type: null
-    website: "http://governor.delaware.gov"
-    contact_page: "http://delaware.gov/help/degov-contact.shtml"
-    facebook_url: "https://www.facebook.com/JohnCarneyDE"
+    website: "https://governor.delaware.gov"
+    contact_page: "https://delaware.gov/help/degov-contact.shtml"
+    facebook_url: "https://facebook.com/JohnCarneyDE"
     twitter_handle: "johncarneyde"
     twitter_url: "https://twitter.com/johncarneyde"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/john-carney.jpg"
@@ -373,7 +285,7 @@
     openly_lgbtq: null
     date_of_birth: "1978-09-14"
     entered_office: "2019-01-08"
-    term_end: "2022-12-31"
+    term_end: "2023-01-01"
     biography: "Ronald Dion DeSantis is an American veteran and politician serving as the 46th and current Governor of Florida since 2019. A member of the Republican Party, he previously represented Florida's 6th congressional district in the United States House of Representatives from 2013 to 2018. After graduating from Yale University and Harvard Law School, DeSantis served as an officer and attorney in the Judge Advocate General's Corps, U.S. Navy (JAG)."
     phone: "850-488-7146"
     fax: "850-487-0801"
@@ -389,9 +301,9 @@
     address_state: null
     address_zipcode: null
     address_type: null
-    website: "http://www.flgov.com/"
+    website: "https://www.flgov.com/"
     contact_page: "https://www.flgov.com/contact-governor/"
-    facebook_url: "https://www.facebook.com/RonDeSantisFlorida"
+    facebook_url: "https://facebook.com/RonDeSantisFlorida"
     twitter_handle: "govrondesantis"
     twitter_url: "https://twitter.com/govrondesantis"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/ronald-desantis.jpg"
@@ -433,9 +345,9 @@
     address_state: null
     address_zipcode: null
     address_type: "St"
-    website: "http://gov.georgia.gov/"
+    website: "https://gov.georgia.gov/"
     contact_page: "https://gov.georgia.gov/contact-us"
-    facebook_url: "https://www.facebook.com/BrianKempGA"
+    facebook_url: "https://facebook.com/BrianKempGA"
     twitter_handle: "BrianKempGA"
     twitter_url: "https://twitter.com/BrianKempGA"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/brian-kemp.jpg"
@@ -461,7 +373,7 @@
     openly_lgbtq: null
     date_of_birth: "1957-01-15"
     entered_office: "2014-01-12"
-    term_end: "2023-01-01"
+    term_end: "2022-01-01"
     biography: "David Yutaka Ige (born January 15, 1957) is an American politician who serves as the eighth and current Governor of Hawaii, in office since 2014. A Democrat, he previously served in the Hawaii State Senate, representing the 16th district, from 1995 to 2014. In the 2014 Hawaii gubernatorial election, he won the Democratic primary by defeating incumbent Governor Neil Abercrombie with 66% of the vote."
     phone: "808-586-0034"
     fax: "808-586-0006"
@@ -477,9 +389,9 @@
     address_state: "HI"
     address_zipcode: "96813"
     address_type: "St"
-    website: "http://governor.hawaii.gov"
+    website: "https://governor.hawaii.gov"
     contact_page: "https://governor.hawaii.gov/contact-us/contact-the-governor/"
-    facebook_url: "https://www.facebook.com/GovernorDavidIge"
+    facebook_url: "https://facebook.com/GovernorDavidIge"
     twitter_handle: "GovHawaii"
     twitter_url: "https://twitter.com/GovHawaii"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/david-ige.jpg"
@@ -521,9 +433,9 @@
     address_state: "ID"
     address_zipcode: "83702"
     address_type: null
-    website: "http://gov.idaho.gov/"
+    website: "https://gov.idaho.gov/"
     contact_page: "https://gov.idaho.gov/contact-us/"
-    facebook_url: "https://www.facebook.com/bradlittleforidaho/"
+    facebook_url: "https://facebook.com/bradlittleforidaho/"
     twitter_handle: "GovernorLittle"
     twitter_url: "https://twitter.com/GovernorLittle"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/brad-little.jpg"
@@ -565,9 +477,9 @@
     address_state: null
     address_zipcode: null
     address_type: null
-    website: "http://www.illinois.gov/gov/"
+    website: "https://www.illinois.gov/gov/"
     contact_page: "https://www2.illinois.gov/gov/contactus/Pages/default.aspx"
-    facebook_url: "https://www.facebook.com/jbpritzker"
+    facebook_url: "https://facebook.com/jbpritzker"
     twitter_handle: "jbpritzker"
     twitter_url: "https://twitter.com/jbpritzker"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/jb-pritzker.jpg"
@@ -593,25 +505,25 @@
     openly_lgbtq: null
     date_of_birth: "1968-05-02"
     entered_office: "2017-01-09"
-    term_end: "2023-01-01"
+    term_end: "2025-01-01"
     biography: "Eric Joseph Holcomb (born May 2, 1968) is an American politician who serves as the 51st and current Governor of Indiana since January 2017. Prior to his election to the governorship, he was also the 51st Lieutenant Governor of Indiana under Governor Mike Pence, now the 48th and current Vice President of the United States."
     phone: "317-232-4567"
     fax: "317-232-3443"
-    latitude: "39.7984385"
-    longitude: "-89.6573079"
-    address_complete: "State House, Room 206 Indianapolis, IN 46204"
-    address_number: null
-    address_prefix: null
-    address_street: "State"
+    latitude: "39.767169"
+    longitude: "-86.162628"
+    address_complete: "200 W. Washington St., Second Floor, Rm. 206, Indianapolis, IN 46204"
+    address_number: "200"
+    address_prefix: "W"
+    address_street: "Washington"
     address_sec_unit_type: null
     address_sec_unit_num: null
     address_city: null
     address_state: null
     address_zipcode: null
-    address_type: null
-    website: "http://www.in.gov/gov/"
-    contact_page: "http://www.in.gov/core/help.html"
-    facebook_url: "https://www.facebook.com/GovHolcomb"
+    address_type: "St"
+    website: "https://www.in.gov/gov/"
+    contact_page: "https://www.in.gov/core/help.html"
+    facebook_url: "https://facebook.com/GovHolcomb"
     twitter_handle: "GovHolcomb"
     twitter_url: "https://twitter.com/GovHolcomb"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/eric-holcomb.jpg"
@@ -655,7 +567,7 @@
     address_type: "Ave"
     website: "https://governor.iowa.gov"
     contact_page: "https://governor.iowa.gov/contact"
-    facebook_url: "https://www.facebook.com/IAGovernor"
+    facebook_url: "https://facebook.com/IAGovernor"
     twitter_handle: "kimreynoldsia"
     twitter_url: "https://twitter.com/kimreynoldsia"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/kimberly-reynolds.jpg"
@@ -681,7 +593,7 @@
     openly_lgbtq: null
     date_of_birth: "1950-01-24"
     entered_office: "2018-01-31"
-    term_end: "2022-12-31"
+    term_end: "2023-01-01"
     biography: "Laura Kelly is the Democratic Governor of Kansas. Kelly was elected to the office on November 6, 2018. Kelly is a former Democratic member of the Kansas State Senate, representing District 18 from 2005 to 2018."
     phone: "785-296-3232"
     fax: "785-296-7973"
@@ -699,54 +611,54 @@
     address_type: "Ave"
     website: "https://governor.kansas.gov"
     contact_page: "https://governor.kansas.gov/contact/contact-the-governor/"
-    facebook_url: "https://www.facebook.com/LauraKellyKS"
-    twitter_handle: "senatorkelly"
-    twitter_url: "https://twitter.com/senatorkelly"
+    facebook_url: "https://facebook.com/LauraKellyKS"
+    twitter_handle: "govlaurakelly"
+    twitter_url: "https://twitter.com/govlaurakelly"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/laura-kelly.jpg"
   - 
     state_name: "Kentucky"
     state_name_slug: "kentucky"
     state_code: "KY"
     state_code_slug: "ky"
-    votesmart: "146094"
+    votesmart: "156112"
     title: "governor"
-    party: "republican"
-    name: "Matthew Bevin"
-    name_slug: "matthew-bevin"
-    first_name: "Matthew"
-    middle_name: "Griswold"
-    last_name: "Bevin"
+    party: "democrat"
+    name: "Andy Beshear"
+    name_slug: "andy-beshear"
+    first_name: "Andy"
+    middle_name: null
+    last_name: "Beshear"
     name_suffix: null
-    goes_by: "Matt"
-    pronunciation: "MAT BE-vin"
+    goes_by: null
+    pronunciation: "an-dee be-shear"
     gender: "male"
     ethnicity: "white-american"
-    religion: "christian"
+    religion: "protestant"
     openly_lgbtq: null
-    date_of_birth: "1967-01-09"
-    entered_office: "2015-12-08"
+    date_of_birth: "1977-11-29"
+    entered_office: "2019-12-10"
     term_end: "2023-01-01"
-    biography: "Matthew Griswold Bevin (born January 9, 1967) is an American businessman and politician who currently serves as the 62nd Governor of Kentucky. He is the third Republican elected Governor of Kentucky since World War II, after Ernie Fletcher (2003–2007) and Louie B. Nunn (1967–1971)."
+    biography: "Beshear was born in Louisville, the son of Steve and Jane Beshear. He grew up in Fayette, Franklin, and Clark counties and graduated from Henry Clay High School in Lexington, Kentucky. Steve Beshear was the Governor of the Commonwealth of Kentucky from 2007 to 2015."
     phone: "502-564-2611"
     fax: "502-564-2517"
-    latitude: "38.1867792"
-    longitude: "-84.877415"
-    address_complete: "700 Capitol Avenue, Suite 100, Frankfort, KY 40601"
-    address_number: "700"
-    address_prefix: null
+    latitude: "38.8958561"
+    longitude: "-77.0119808"
+    address_complete: "444 North Capitol Street, Washington, DC 20001"
+    address_number: "444"
+    address_prefix: "N"
     address_street: "Capitol"
-    address_sec_unit_type: "Suite"
-    address_sec_unit_num: "100"
-    address_city: "Frankfort"
-    address_state: "KY"
-    address_zipcode: "40601"
-    address_type: "Ave"
-    website: "http://governor.ky.gov"
-    contact_page: "http://governor.ky.gov/pages/contact.aspx"
-    facebook_url: "https://www.facebook.com/GovMattBevin"
-    twitter_handle: "GovMattBevin"
-    twitter_url: "https://twitter.com/GovMattBevin"
-    photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/matthew-bevin.jpg"
+    address_sec_unit_type: null
+    address_sec_unit_num: null
+    address_city: "Washington"
+    address_state: "DC"
+    address_zipcode: "20001"
+    address_type: "St"
+    website: "https://governor.ky.gov"
+    contact_page: "https://governor.ky.gov/contact/contact-us"
+    facebook_url: "https://facebook.com/govandybeshear"
+    twitter_handle: "govandybeshear"
+    twitter_url: "https://twitter.com/govandybeshear"
+    photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/andy-beshear.jpg"
   - 
     state_name: "Louisiana"
     state_name_slug: "louisiana"
@@ -773,21 +685,21 @@
     biography: "John Bel Edwards (born September 16, 1966) is an American politician and lawyer who is the 56th and current Governor of Louisiana, in office since January 11, 2016. He was previously the Minority Leader of the Louisiana House of Representatives and represented the 72nd District for two terms. He left the state legislature to run for governor in 2015."
     phone: "623-773-7328"
     fax: "225-342-7099"
-    latitude: "33.5766177"
-    longitude: "-112.242531"
-    address_complete: "8401 West Monroe Street, Peoria, AZ 85345"
-    address_number: "8401"
-    address_prefix: "W"
-    address_street: "Monroe"
+    latitude: "30.4571189"
+    longitude: "-91.1896208"
+    address_complete: "Louisiana State Capitol, Baton Rouge, LA 70802"
+    address_number: null
+    address_prefix: null
+    address_street: "Louisiana"
     address_sec_unit_type: null
     address_sec_unit_num: null
-    address_city: "Peoria"
-    address_state: "AZ"
-    address_zipcode: "85345"
-    address_type: "St"
-    website: "http://gov.louisiana.gov/"
-    contact_page: "http://gov.louisiana.gov/page/contact"
-    facebook_url: "https://www.facebook.com/LouisianaGov"
+    address_city: null
+    address_state: null
+    address_zipcode: null
+    address_type: null
+    website: "https://gov.louisiana.gov/"
+    contact_page: "https://gov.louisiana.gov/page/contact"
+    facebook_url: "https://facebook.com/LouisianaGov"
     twitter_handle: "louisianagov"
     twitter_url: "https://twitter.com/louisianagov"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/john-edwards.jpg"
@@ -831,7 +743,7 @@
     address_type: "Sta"
     website: "https://www.maine.gov/governor/"
     contact_page: "https://www.maine.gov/governor/mills/contact"
-    facebook_url: "https://www.facebook.com/millsforgovernor"
+    facebook_url: "https://facebook.com/millsforgovernor"
     twitter_handle: "JanetMillsforME"
     twitter_url: "https://twitter.com/JanetMillsforME"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/janet-mills.jpg"
@@ -873,9 +785,9 @@
     address_state: "MD"
     address_zipcode: "21401"
     address_type: "Cir"
-    website: "http://governor.maryland.gov/"
-    contact_page: "http://governor.maryland.gov/mail/default.asp"
-    facebook_url: "https://www.facebook.com/larryhoganmd"
+    website: "https://governor.maryland.gov/"
+    contact_page: "https://governor.maryland.gov/mail/default.asp"
+    facebook_url: "https://facebook.com/larryhoganmd"
     twitter_handle: "LarryHogan"
     twitter_url: "https://twitter.com/LarryHogan"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/lawrence-hogan.jpg"
@@ -917,9 +829,9 @@
     address_state: null
     address_zipcode: null
     address_type: null
-    website: "http://www.mass.gov/governor/"
-    contact_page: "http://www.mass.gov/governor/constituent-services/contact-governor-office/"
-    facebook_url: "https://www.facebook.com/CharlieBakerMA"
+    website: "https://www.mass.gov/governor/"
+    contact_page: "https://www.mass.gov/governor/constituent-services/contact-governor-office/"
+    facebook_url: "https://facebook.com/CharlieBakerMA"
     twitter_handle: "massgovernor"
     twitter_url: "https://twitter.com/massgovernor"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/charles-baker.jpg"
@@ -961,9 +873,9 @@
     address_state: "MI"
     address_zipcode: "48909"
     address_type: null
-    website: "http://www.michigan.gov/gov"
+    website: "https://www.michigan.gov/gov"
     contact_page: "https://www.michigan.gov/whitmer/0,9309,7-387-90498_90663---,00.html"
-    facebook_url: "https://www.facebook.com/GretchenWhitmer"
+    facebook_url: "https://facebook.com/GretchenWhitmer"
     twitter_handle: "gretchenwhitmer"
     twitter_url: "https://twitter.com/gretchenwhitmer"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/gretchen-whitmer.jpg"
@@ -1007,7 +919,7 @@
     address_type: null
     website: "https://mn.gov/governor/"
     contact_page: "https://mn.gov/governor/contact/"
-    facebook_url: "https://www.facebook.com/GovTimWalz"
+    facebook_url: "https://facebook.com/GovTimWalz"
     twitter_handle: "GovTimWalz"
     twitter_url: "https://twitter.com/GovTimWalz"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/tim-walz.jpg"
@@ -1016,45 +928,45 @@
     state_name_slug: "mississippi"
     state_code: "MS"
     state_code_slug: "ms"
-    votesmart: "2126"
+    votesmart: "40266"
     title: "governor"
     party: "republican"
-    name: "Dewey Bryant"
-    name_slug: "dewey-bryant"
-    first_name: "Dewey"
-    middle_name: "Phillip"
-    last_name: "Bryant"
+    name: "Tate Reeves"
+    name_slug: "tate-reeves"
+    first_name: "Tate"
+    middle_name: null
+    last_name: "Reeves"
     name_suffix: null
-    goes_by: "Phil"
-    pronunciation: "FIL BRY-ant"
+    goes_by: null
+    pronunciation: "tate ree-ves"
     gender: "male"
     ethnicity: "white-american"
-    religion: "united-methodist"
+    religion: "methodist"
     openly_lgbtq: null
-    date_of_birth: "1954-12-09"
-    entered_office: "2012-01-10"
-    term_end: "2023-01-01"
-    biography: "Dewey Phillip Bryant (born December 9, 1954) is an American politician from the state of Mississippi who has served as the 64th Governor of Mississippi since 2012. He previously served as the 31st Lieutenant Governor of Mississippi from 2008 to 2012 and as the 40th State Auditor of Mississippi from 1996 to 2008."
+    date_of_birth: "1974-06-05"
+    entered_office: "2020-01-14"
+    term_end: "2024-01-01"
+    biography: "A native of Rankin County, Mississippi, Reeves graduated in 1992 from Florence High School in Florence. He is an honors graduate of Millsaps College in Jackson, where he earned a bachelor's degree in economics."
     phone: "601-359-3150"
     fax: "601-359-3741"
-    latitude: "32.3504041"
-    longitude: "-90.1551408"
-    address_complete: "P.O. Box 139, Jackson, MS 39205"
-    address_number: null
+    latitude: "32.305033"
+    longitude: "-90.1830618"
+    address_complete: "550 High St., Sillers Building, 19th Floor, Jackson, MS 39201"
+    address_number: "550"
     address_prefix: null
-    address_street: null
-    address_sec_unit_type: "PO Box"
-    address_sec_unit_num: "139"
-    address_city: "Jackson"
-    address_state: "MS"
-    address_zipcode: "39205"
-    address_type: null
-    website: "http://www.governorbryant.ms.gov/"
-    contact_page: "http://www.governorbryant.ms.gov/Pages/Contact.aspx"
-    facebook_url: "https://www.facebook.com/im4phil"
-    twitter_handle: "PhilBryantMS"
-    twitter_url: "https://twitter.com/PhilBryantMS"
-    photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/dewey-bryant.jpg"
+    address_street: "High"
+    address_sec_unit_type: null
+    address_sec_unit_num: null
+    address_city: null
+    address_state: null
+    address_zipcode: null
+    address_type: "St"
+    website: "https://governorreeves.ms.gov"
+    contact_page: "https://governorreeves.ms.gov/"
+    facebook_url: "https://facebook.com/tatereeves/"
+    twitter_handle: "tatereeves"
+    twitter_url: "https://twitter.com/tatereeves"
+    photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/tate-reeves.jpg"
   - 
     state_name: "Missouri"
     state_name_slug: "missouri"
@@ -1095,7 +1007,7 @@
     address_type: "Ave"
     website: "https://governor.mo.gov/"
     contact_page: "https://governor.mo.gov/get-involved/contact-the-governors-office"
-    facebook_url: "https://www.facebook.com/TeamMikeParson"
+    facebook_url: "https://facebook.com/TeamMikeParson"
     twitter_handle: "mikeparson"
     twitter_url: "https://twitter.com/mikeparson"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/michael-parson.jpg"
@@ -1104,45 +1016,45 @@
     state_name_slug: "montana"
     state_code: "MT"
     state_code_slug: "mt"
-    votesmart: "110899"
+    votesmart: "168594"
     title: "governor"
-    party: "democrat"
-    name: "Stephen Bullock"
-    name_slug: "stephen-bullock"
-    first_name: "Stephen"
-    middle_name: "Clark"
-    last_name: "Bullock"
+    party: "republican"
+    name: "Greg Gianforte"
+    name_slug: "greg-gianforte"
+    first_name: "Greg"
+    middle_name: null
+    last_name: "Gianforte"
     name_suffix: null
     goes_by: null
-    pronunciation: "STEE-ven BUU-luhk"
+    pronunciation: "greg jee-uhn-for-tei"
     gender: "male"
     ethnicity: "white-american"
     religion: "unspecified"
     openly_lgbtq: null
-    date_of_birth: "1966-04-11"
-    entered_office: "2013-01-07"
-    term_end: "2023-01-01"
-    biography: "Stephen Clark Bullock (born April 11, 1966) is an American politician and lawyer who is the 24th and current Governor of Montana, serving since 2013. He is a member of the Democratic Party."
+    date_of_birth: "1961-04-17"
+    entered_office: "2021-01-04"
+    term_end: "2025-01-01"
+    biography: "Gregory Gianforte is an American politician, businessman, engineer, philanthropist, and author serving as the 25th Governor of Montana since 2021. A Republican, Gianforte served as the Representative for Montana's at-large congressional district from 2017 to 2021."
     phone: "406-444-3111"
     fax: "406-444-5529"
-    latitude: "46.5300037"
-    longitude: "-112.162194"
-    address_complete: "Office of the Governor, Post Office Box 200801, Helena, MT 59620"
-    address_number: null
-    address_prefix: null
-    address_street: "of"
-    address_sec_unit_type: "Office"
+    latitude: "46.5855819"
+    longitude: "-112.0199645"
+    address_complete: "1301 E 6th Ave, Helena, MT 5960"
+    address_number: "1301"
+    address_prefix: "E"
+    address_street: "6th"
+    address_sec_unit_type: null
     address_sec_unit_num: null
-    address_city: null
-    address_state: null
+    address_city: "Helena"
+    address_state: "MT"
     address_zipcode: null
-    address_type: null
-    website: "http://governor.mt.gov/"
-    contact_page: "http://governor.mt.gov/Home/Contact/shareopinion"
-    facebook_url: "https://www.facebook.com/GovernorBullock"
-    twitter_handle: "GovernorBullock"
-    twitter_url: "https://twitter.com/GovernorBullock"
-    photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/stephen-bullock.jpg"
+    address_type: "Ave"
+    website: "https://governor.mt.gov"
+    contact_page: "https://governor.mt.gov/contact"
+    facebook_url: "https://facebook.com/GovGianforte"
+    twitter_handle: "gregformontana"
+    twitter_url: "https://twitter.com/gregformontana"
+    photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/greg-gianforte.jpg"
   - 
     state_name: "Nebraska"
     state_name_slug: "nebraska"
@@ -1183,7 +1095,7 @@
     address_type: null
     website: "https://governor.nebraska.gov/"
     contact_page: "https://governor.nebraska.gov/contact-form"
-    facebook_url: "https://www.facebook.com/GovernorPeteRicketts"
+    facebook_url: "https://facebook.com/GovernorPeteRicketts"
     twitter_handle: "GovRicketts"
     twitter_url: "https://twitter.com/GovRicketts"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/john-ricketts.jpg"
@@ -1209,7 +1121,7 @@
     openly_lgbtq: null
     date_of_birth: "1953-12-26"
     entered_office: "2019-01-01"
-    term_end: "2022-12-31"
+    term_end: "2023-01-01"
     biography: "Steve Sisolak is the Democratic Governor of Nevada. Sisolak was elected to the office on November 6, 2018. Sisolak served as the District A representative on the Clark County Commission in Nevada from 2009 to 2019."
     phone: "775-684-5670"
     fax: "775-684-5683"
@@ -1225,9 +1137,9 @@
     address_state: null
     address_zipcode: null
     address_type: null
-    website: "http://gov.nv.gov/"
-    contact_page: "http://gov.nv.gov/Contact/Contact/"
-    facebook_url: "https://www.facebook.com/VoteSteveSisolak"
+    website: "https://gov.nv.gov/"
+    contact_page: "https://gov.nv.gov/Contact/Contact/"
+    facebook_url: "https://facebook.com/VoteSteveSisolak"
     twitter_handle: "stevesisolak"
     twitter_url: "https://twitter.com/stevesisolak"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/steve-sisolak.jpg"
@@ -1269,56 +1181,12 @@
     address_state: "NH"
     address_zipcode: "03301"
     address_type: "St"
-    website: "http://www.governor.nh.gov/"
+    website: "https://www.governor.nh.gov/"
     contact_page: "https://business.nh.gov/nhgovernor/comments.asp"
-    facebook_url: "https://www.facebook.com/GovernorChrisSununu"
+    facebook_url: "https://facebook.com/GovernorChrisSununu"
     twitter_handle: "GovChrisSununu"
     twitter_url: "https://twitter.com/GovChrisSununu"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/christopher-sununu.jpg"
-  - 
-    state_name: "New Jersey"
-    state_name_slug: "new-jersey"
-    state_code: "NJ"
-    state_code_slug: "nj"
-    votesmart: "176221"
-    title: "governor"
-    party: "democrat"
-    name: "Philip Murphy"
-    name_slug: "philip-murphy"
-    first_name: "Philip"
-    middle_name: "Dunton"
-    last_name: "Murphy"
-    name_suffix: null
-    goes_by: "Phil"
-    pronunciation: "FIL MUR-fee"
-    gender: "male"
-    ethnicity: "white-american"
-    religion: "unspecified"
-    openly_lgbtq: null
-    date_of_birth: "1957-08-16"
-    entered_office: "2018-01-16"
-    term_end: "2022-01-01"
-    biography: "Philip Dunton Murphy (born August 16, 1957) is an American financier, diplomat, and politician currently serving as the 56th Governor of New Jersey. Murphy, a Democrat, defeated then Lieutenant Governor Kim Guadagno in the 2017 gubernatorial election."
-    phone: "609-292-6000"
-    fax: "609-292-3454"
-    latitude: "40.220707"
-    longitude: "-74.763027"
-    address_complete: "Office of the Governor, Post Office Box 001, Trenton, NJ 08625"
-    address_number: null
-    address_prefix: null
-    address_street: "of"
-    address_sec_unit_type: "Office"
-    address_sec_unit_num: null
-    address_city: null
-    address_state: null
-    address_zipcode: null
-    address_type: null
-    website: "http://www.nj.gov/governor/"
-    contact_page: "http://www.nj.gov/governor/contact/"
-    facebook_url: "https://www.facebook.com/PhilMurphyNJ"
-    twitter_handle: "philmurphynj"
-    twitter_url: "https://twitter.com/philmurphynj"
-    photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/philip-murphy.jpg"
   - 
     state_name: "New Mexico"
     state_name_slug: "new-mexico"
@@ -1357,9 +1225,9 @@
     address_state: null
     address_zipcode: null
     address_type: null
-    website: "http://www.governor.state.nm.us/"
+    website: "https://www.governor.state.nm.us/"
     contact_page: "https://www.governor.state.nm.us/contact/"
-    facebook_url: "https://www.facebook.com/mlujangrisham"
+    facebook_url: "https://facebook.com/mlujangrisham"
     twitter_handle: "michelle4nm"
     twitter_url: "https://twitter.com/michelle4nm"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/michelle-lujan-grisham.jpg"
@@ -1401,12 +1269,56 @@
     address_state: null
     address_zipcode: null
     address_type: null
-    website: "http://www.governor.ny.gov/"
-    contact_page: "http://www.governor.ny.gov/contact-iframe"
-    facebook_url: "https://www.facebook.com/GovernorAndrewCuomo"
+    website: "https://www.governor.ny.gov/"
+    contact_page: "https://www.governor.ny.gov/contact-iframe"
+    facebook_url: "https://facebook.com/GovernorAndrewCuomo"
     twitter_handle: "nygovcuomo"
     twitter_url: "https://twitter.com/nygovcuomo"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/andrew-cuomo.jpg"
+  - 
+    state_name: "New Jersey"
+    state_name_slug: "new-jersey"
+    state_code: "NJ"
+    state_code_slug: "nj"
+    votesmart: "176221"
+    title: "governor"
+    party: "democrat"
+    name: "Philip Murphy"
+    name_slug: "philip-murphy"
+    first_name: "Philip"
+    middle_name: "Dunton"
+    last_name: "Murphy"
+    name_suffix: null
+    goes_by: "Phil"
+    pronunciation: "FIL MUR-fee"
+    gender: "male"
+    ethnicity: "white-american"
+    religion: "unspecified"
+    openly_lgbtq: null
+    date_of_birth: "1957-08-16"
+    entered_office: "2018-01-16"
+    term_end: "2022-01-01"
+    biography: "Philip Dunton Murphy (born August 16, 1957) is an American financier, diplomat, and politician currently serving as the 56th Governor of New Jersey. Murphy, a Democrat, defeated then Lieutenant Governor Kim Guadagno in the 2017 gubernatorial election."
+    phone: "609-292-6000"
+    fax: "609-292-3454"
+    latitude: "40.220707"
+    longitude: "-74.763027"
+    address_complete: "Office of the Governor, Post Office Box 001, Trenton, NJ 08625"
+    address_number: null
+    address_prefix: null
+    address_street: "of"
+    address_sec_unit_type: "Office"
+    address_sec_unit_num: null
+    address_city: null
+    address_state: null
+    address_zipcode: null
+    address_type: null
+    website: "https://www.nj.gov/governor/"
+    contact_page: "https://www.nj.gov/governor/contact/"
+    facebook_url: "https://facebook.com/PhilMurphyNJ"
+    twitter_handle: "philmurphynj"
+    twitter_url: "https://twitter.com/philmurphynj"
+    photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/philip-murphy.jpg"
   - 
     state_name: "North Carolina"
     state_name_slug: "north-carolina"
@@ -1447,7 +1359,7 @@
     address_type: "Ctr"
     website: "https://governor.nc.gov/"
     contact_page: "https://governor.nc.gov/contact-governor-cooper"
-    facebook_url: "https://www.facebook.com/NCgovernor"
+    facebook_url: "https://facebook.com/NCgovernor"
     twitter_handle: "NC_Governor"
     twitter_url: "https://twitter.com/NC_Governor"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/roy-cooper.jpg"
@@ -1491,7 +1403,7 @@
     address_type: "Blvd"
     website: "https://www.governor.nd.gov/"
     contact_page: "https://www.governor.nd.gov/contact-us"
-    facebook_url: "https://www.facebook.com/GovernorDougBurgum"
+    facebook_url: "https://facebook.com/GovernorDougBurgum"
     twitter_handle: "DougBurgum"
     twitter_url: "https://twitter.com/DougBurgum"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/douglas-burgum.jpg"
@@ -1517,7 +1429,7 @@
     openly_lgbtq: null
     date_of_birth: "1947-01-05"
     entered_office: "2019-01-01"
-    term_end: "2020-12-31"
+    term_end: "2023-01-01"
     biography: "Richard Michael DeWine is the Republican Governor of Ohio. DeWine was elected to the office on November 6, 2018."
     phone: "614-466-3555"
     fax: "614-466-9354"
@@ -1533,9 +1445,9 @@
     address_state: null
     address_zipcode: null
     address_type: "St"
-    website: "http://governor.ohio.gov/"
+    website: "https://governor.ohio.gov/"
     contact_page: "https://governor.ohio.gov/Contact/Contact-the-Governor"
-    facebook_url: "https://www.facebook.com/MikeDeWine"
+    facebook_url: "https://facebook.com/MikeDeWine"
     twitter_handle: "mikedewine"
     twitter_url: "https://twitter.com/mikedewine"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/michael-dewine.jpg"
@@ -1577,9 +1489,9 @@
     address_state: null
     address_zipcode: null
     address_type: null
-    website: "http://www.gov.ok.gov/"
+    website: "https://www.gov.ok.gov/"
     contact_page: "https://www.ok.gov/governor/Contact_the_Governor/index.html"
-    facebook_url: "https://www.facebook.com/StittForGovernor"
+    facebook_url: "https://facebook.com/StittForGovernor"
     twitter_handle: "GovStitt"
     twitter_url: "https://twitter.com/GovStitt"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/kevin-stitt.jpg"
@@ -1621,9 +1533,9 @@
     address_state: null
     address_zipcode: null
     address_type: null
-    website: "http://www.oregon.gov/gov/pages/index.aspx"
-    contact_page: "http://www.oregon.gov/gov/Pages/share-your-opinion.aspx"
-    facebook_url: "https://www.facebook.com/oregongovernor"
+    website: "https://www.oregon.gov/gov/pages/index.aspx"
+    contact_page: "https://www.oregon.gov/gov/Pages/share-your-opinion.aspx"
+    facebook_url: "https://facebook.com/oregongovernor"
     twitter_handle: "OregonGovBrown"
     twitter_url: "https://twitter.com/OregonGovBrown"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/katherine-brown.jpg"
@@ -1667,7 +1579,7 @@
     address_type: null
     website: "https://www.governor.pa.gov/"
     contact_page: "https://www.governor.pa.gov/contact/"
-    facebook_url: "https://www.facebook.com/governorwolf"
+    facebook_url: "https://facebook.com/governorwolf"
     twitter_handle: "governortomwolf"
     twitter_url: "https://twitter.com/governortomwolf"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/thomas-wolf.jpg"
@@ -1709,9 +1621,9 @@
     address_state: "RI"
     address_zipcode: "02903"
     address_type: "St"
-    website: "http://www.gov.ri.gov/"
-    contact_page: "http://www.gov.ri.gov/contact/"
-    facebook_url: "https://www.facebook.com/GinaMRaimondo"
+    website: "https://www.gov.ri.gov/"
+    contact_page: "https://www.gov.ri.gov/contact/"
+    facebook_url: "https://facebook.com/GinaMRaimondo"
     twitter_handle: "ginaraimondo"
     twitter_url: "https://twitter.com/ginaraimondo"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/gina-raimondo.jpg"
@@ -1753,9 +1665,9 @@
     address_state: null
     address_zipcode: null
     address_type: null
-    website: "http://governor.sc.gov/Pages/default.aspx"
-    contact_page: "http://governor.sc.gov/Contact/Pages/default.aspx"
-    facebook_url: "https://www.facebook.com/HenryMcMaster"
+    website: "https://governor.sc.gov/Pages/default.aspx"
+    contact_page: "https://governor.sc.gov/Contact/Pages/default.aspx"
+    facebook_url: "https://facebook.com/HenryMcMaster"
     twitter_handle: "henrymcmaster"
     twitter_url: "https://twitter.com/henrymcmaster"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/henry-mcmaster.jpg"
@@ -1781,7 +1693,7 @@
     openly_lgbtq: null
     date_of_birth: "1971-11-30"
     entered_office: "2019-01-01"
-    term_end: "2022-12-31"
+    term_end: "2023-01-01"
     biography: "Kristi L. Noem is the Republican Governor of South Dakota. Noem was elected to the office on November 6, 2018. Noem is a former Republican member of the U.S. House of Representatives from the state of South Dakota. She represented South Dakota's At-Large Congressional District from 2011 to 2019."
     phone: "605-773-3212"
     fax: "605-773-4711"
@@ -1797,9 +1709,9 @@
     address_state: "SD"
     address_zipcode: "57501"
     address_type: "Ave"
-    website: "http://sd.gov/governor/"
-    contact_page: "http://sd.gov/governor/contact/default.aspx"
-    facebook_url: "https://www.facebook.com/kristiforgovernor"
+    website: "https://sd.gov/governor/"
+    contact_page: "https://sd.gov/governor/contact/default.aspx"
+    facebook_url: "https://facebook.com/kristiforgovernor"
     twitter_handle: "kristinoem"
     twitter_url: "https://twitter.com/kristinoem"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/kristi-noem.jpg"
@@ -1825,7 +1737,7 @@
     openly_lgbtq: null
     date_of_birth: "1959-10-09"
     entered_office: "2019-01-01"
-    term_end: "2022-12-31"
+    term_end: "2023-01-01"
     biography: "Bill Lee is the Republican Governor of Tennessee. Lee was elected to the office on November 6, 2018."
     phone: "615-741-2001"
     fax: "615-532-9711"
@@ -1843,7 +1755,7 @@
     address_type: null
     website: "https://www.tn.gov/governor"
     contact_page: "https://www.tn.gov/governor/contact-us.html"
-    facebook_url: "https://www.facebook.com/BillLeeTN"
+    facebook_url: "https://facebook.com/BillLeeTN"
     twitter_handle: "billleetn"
     twitter_url: "https://twitter.com/billleetn"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/bill-lee.jpg"
@@ -1885,9 +1797,9 @@
     address_state: null
     address_zipcode: null
     address_type: null
-    website: "http://gov.texas.gov/"
+    website: "https://gov.texas.gov/"
     contact_page: "https://gov.texas.gov/contact/"
-    facebook_url: "https://www.facebook.com/TexasGovernor"
+    facebook_url: "https://facebook.com/TexasGovernor"
     twitter_handle: "GregAbbott_TX"
     twitter_url: "https://twitter.com/GregAbbott_TX"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/gregory-abbott.jpg"
@@ -1896,45 +1808,45 @@
     state_name_slug: "utah"
     state_code: "UT"
     state_code_slug: "ut"
-    votesmart: "50344"
+    votesmart: "114270"
     title: "governor"
     party: "republican"
-    name: "Gary Herbert"
-    name_slug: "gary-herbert"
-    first_name: "Gary"
-    middle_name: "Richard"
-    last_name: "Herbert"
+    name: "Spencer Cox"
+    name_slug: "spencer-cox"
+    first_name: "Spencer"
+    middle_name: null
+    last_name: "Cox"
     name_suffix: null
     goes_by: null
-    pronunciation: "GE-ree HUR-bert"
+    pronunciation: "spen-cer kawks"
     gender: "male"
     ethnicity: "white-american"
-    religion: "christian"
+    religion: "unspecified"
     openly_lgbtq: null
-    date_of_birth: "1947-05-07"
-    entered_office: "2009-08-11"
-    term_end: "2023-01-01"
-    biography: "Gary Richard Herbert (born May 7, 1947) is an American politician who is the 17th and current Governor of Utah. A member of the Republican Party, Herbert has served as Governor since August 2009. From July 2015 to July 2016, Herbert served as chair of the National Governors Association."
-    phone: "801-538-1000"
-    fax: "801-538-1528"
-    latitude: "40.7443666"
-    longitude: "-111.9725741"
-    address_complete: "Utah State Capitol, 350 North State Street, Suite 200, Post Office Box 142220, Salt Lake City, UT 84114"
-    address_number: null
+    date_of_birth: "1975-07-11"
+    entered_office: "2021-01-04"
+    term_end: "2025-01-01"
+    biography: "Cox was raised and lives in Fairview, Utah. He was elected to the city council in 2004 and mayorship the next year. After overseeing rural economic development in Fairview, Cox was elected as a county commissioner for Sanpete County in 2008. He was elected to the Utah House of Representatives in 2012."
+    phone: "801-538-1041"
+    fax: "801-538-1133"
+    latitude: "40.7774298"
+    longitude: "-111.8885905"
+    address_complete: "350 State St #200, Salt Lake City, UT 84114"
+    address_number: "350"
     address_prefix: null
-    address_street: "Utah"
-    address_sec_unit_type: null
-    address_sec_unit_num: null
-    address_city: null
-    address_state: null
-    address_zipcode: null
-    address_type: null
-    website: "https://www.utah.gov/governor/"
-    contact_page: "https://gocentral.utah.gov/Request/Contact?response=true"
-    facebook_url: "https://www.facebook.com/GovGaryHerbert"
-    twitter_handle: "GovHerbert"
-    twitter_url: "https://twitter.com/GovHerbert"
-    photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/gary-herbert.jpg"
+    address_street: "State"
+    address_sec_unit_type: "#"
+    address_sec_unit_num: "200"
+    address_city: "Salt Lake City"
+    address_state: "UT"
+    address_zipcode: "84114"
+    address_type: "St"
+    website: "https://governor.utah.gov"
+    contact_page: "https://governor.utah.gov/contact/"
+    facebook_url: "https://facebook.com/utgovernorcox"
+    twitter_handle: "GovCox"
+    twitter_url: "https://twitter.com/GovCox"
+    photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/spencer-cox.jpg"
   - 
     state_name: "Vermont"
     state_name_slug: "vermont"
@@ -1973,9 +1885,9 @@
     address_state: "VT"
     address_zipcode: "05609"
     address_type: "St"
-    website: "http://governor.vermont.gov/"
-    contact_page: "http://governor.vermont.gov/contact-us/message"
-    facebook_url: "https://www.facebook.com/GovPhilScott"
+    website: "https://governor.vermont.gov/"
+    contact_page: "https://governor.vermont.gov/contact-us/message"
+    facebook_url: "https://facebook.com/GovPhilScott"
     twitter_handle: "GovPhilScott"
     twitter_url: "https://twitter.com/GovPhilScott"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/philip-scott.jpg"
@@ -2019,7 +1931,7 @@
     address_type: null
     website: "https://governor.virginia.gov/"
     contact_page: "https://governor.virginia.gov/constituent-services/communicating-with-the-governors-office/"
-    facebook_url: "https://www.facebook.com/ralph.northam"
+    facebook_url: "https://facebook.com/ralph.northam"
     twitter_handle: "ralphnortham"
     twitter_url: "https://twitter.com/ralphnortham"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/ralph-northam.jpg"
@@ -2061,9 +1973,9 @@
     address_state: null
     address_zipcode: null
     address_type: null
-    website: "http://www.governor.wa.gov/"
-    contact_page: "http://www.governor.wa.gov/contact/contact/send-gov-inslee-e-message"
-    facebook_url: "https://www.facebook.com/WaStateGov"
+    website: "https://www.governor.wa.gov/"
+    contact_page: "https://www.governor.wa.gov/contact/contact/send-gov-inslee-e-message"
+    facebook_url: "https://facebook.com/WaStateGov"
     twitter_handle: "jayinslee"
     twitter_url: "https://twitter.com/jayinslee"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/jay-inslee.jpg"
@@ -2105,9 +2017,9 @@
     address_state: null
     address_zipcode: null
     address_type: null
-    website: "http://www.governor.wv.gov/Pages/default.aspx"
-    contact_page: "http://www.governor.wv.gov/Pages/SubmitaCommenttotheGovernor.aspx"
-    facebook_url: "https://www.facebook.com/WVGovernor"
+    website: "https://www.governor.wv.gov/Pages/default.aspx"
+    contact_page: "https://www.governor.wv.gov/Pages/SubmitaCommenttotheGovernor.aspx"
+    facebook_url: "https://facebook.com/WVGovernor"
     twitter_handle: "WVGovernor"
     twitter_url: "https://twitter.com/WVGovernor"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/james-justice.jpg"
@@ -2149,9 +2061,9 @@
     address_state: "Wi"
     address_zipcode: "53707"
     address_type: null
-    website: "http://www.wisgov.state.wi.us/"
+    website: "https://www.wisgov.state.wi.us/"
     contact_page: "https://evers.wi.gov/Pages/connect.aspx"
-    facebook_url: "https://www.facebook.com/Tony4WI"
+    facebook_url: "https://facebook.com/Tony4WI"
     twitter_handle: "tony4wi"
     twitter_url: "https://twitter.com/tony4wi"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/tony-evers.jpg"
@@ -2181,22 +2093,110 @@
     biography: "Mark Gordon is the Republican Governor of Wyoming. Gordon was elected to the office on November 6, 2018."
     phone: "307-777-7434"
     fax: "307-632-3909"
-    latitude: "45.25194"
-    longitude: "-75.731227"
-    address_complete: "State Capitol Building, Room 124, Cheyenne, WY 82002"
-    address_number: null
-    address_prefix: null
-    address_street: "State"
+    latitude: "41.1402682"
+    longitude: "-104.8202289"
+    address_complete: "200 W 24th St, Cheyenne, WY 82001"
+    address_number: "200"
+    address_prefix: "W"
+    address_street: "24th"
     address_sec_unit_type: null
     address_sec_unit_num: null
-    address_city: null
-    address_state: null
-    address_zipcode: null
-    address_type: null
-    website: "http://governor.wy.gov/"
+    address_city: "Cheyenne"
+    address_state: "WY"
+    address_zipcode: "82001"
+    address_type: "St"
+    website: "https://governor.wy.gov/"
     contact_page: "https://governor.wyo.gov/contact"
-    facebook_url: "https://www.facebook.com/markgordon4wyoming"
+    facebook_url: "https://facebook.com/markgordon4wyoming"
     twitter_handle: "mark_gordon_wy"
     twitter_url: "https://twitter.com/mark_gordon_wy"
     photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/mark-gordon.jpg"
+  - 
+    state_name: "Arizona"
+    state_name_slug: "arizona"
+    state_code: "AZ"
+    state_code_slug: "az"
+    votesmart: "123548"
+    title: "governor"
+    party: "republican"
+    name: "Douglas Ducey"
+    name_slug: "douglas-ducey"
+    first_name: "Douglas"
+    middle_name: "Anthony"
+    last_name: "Ducey"
+    name_suffix: null
+    goes_by: "Doug"
+    pronunciation: "DOAG DOO-see"
+    gender: "male"
+    ethnicity: "white-american"
+    religion: "roman-catholic"
+    openly_lgbtq: null
+    date_of_birth: "1964-04-09"
+    entered_office: "2015-01-05"
+    term_end: "2023-01-01"
+    biography: "Douglas Anthony Ducey (born April 9, 1964) is an American businessman who is the 23rd and current governor of the U.S. State of Arizona. He is a member of the Republican Party, and was sworn in as governor on January 5, 2015. Prior to his governorship, he served as the state's 42nd treasurer. He is also the first man to serve as Arizona Governor in over 17 years."
+    phone: "602-542-4331"
+    fax: "602-542-7601"
+    latitude: "33.4481208"
+    longitude: "-112.0992236"
+    address_complete: "1700 West Washington Street, Phoenix, AZ 85007"
+    address_number: "1700"
+    address_prefix: "W"
+    address_street: "Washington"
+    address_sec_unit_type: null
+    address_sec_unit_num: null
+    address_city: "Phoenix"
+    address_state: "AZ"
+    address_zipcode: "85007"
+    address_type: "St"
+    website: "https://azgovernor.gov"
+    contact_page: "https://azgovernor.gov/engage/form/contact-governor-ducey"
+    facebook_url: "https://facebook.com/dougducey"
+    twitter_handle: "dougducey"
+    twitter_url: "https://twitter.com/dougducey"
+    photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/douglas-ducey.jpg"
+  - 
+    state_name: "Colorado"
+    state_name_slug: "colorado"
+    state_code: "CO"
+    state_code_slug: "co"
+    votesmart: "106220"
+    title: "governor"
+    party: "democrat"
+    name: "Jared Polis"
+    name_slug: "jared-polis"
+    first_name: "Jared"
+    middle_name: null
+    last_name: "Polis"
+    name_suffix: null
+    goes_by: null
+    pronunciation: "JA-rid PAW-lis"
+    gender: "male"
+    ethnicity: "white-american"
+    religion: "jewish"
+    openly_lgbtq: null
+    date_of_birth: "1975-05-12"
+    entered_office: "2019-01-08"
+    term_end: "2022-12-31"
+    biography: "Jared Schutz Polis is an American politician, entrepreneur, and philanthropist who is the 43rd Governor of Colorado. From 2009 to 2019, he was the United States Representative for Colorado's 2nd congressional district. Polis was elected Governor of Colorado in 2018, making him the first openly gay man elected governor in the United States, the second openly LGBT person elected governor in the United States (after Governor Kate Brown of Oregon), and the first Jewish person elected governor of Colorado."
+    phone: "303-866-2471"
+    fax: "303-866-2003"
+    latitude: "39.73921"
+    longitude: "-104.98497"
+    address_complete: "136 State Capitol, Denver CO, 80203-1792"
+    address_number: "136"
+    address_prefix: null
+    address_street: "State Capitol"
+    address_sec_unit_type: null
+    address_sec_unit_num: null
+    address_city: "Denver"
+    address_state: "CO"
+    address_zipcode: "80203"
+    address_type: null
+    website: "https://www.colorado.gov/governor/"
+    contact_page: "https://www.colorado.gov/governor/contact"
+    facebook_url: "https://facebook.com/PolisForColorado"
+    twitter_handle: "jaredpolis"
+    twitter_url: "https://twitter.com/jaredpolis"
+    photo_url: "https://cdn.civil.services/us-governors/headshots/512x512/jared-polis.jpg"
 
