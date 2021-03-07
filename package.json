@@ -1,6 +1,6 @@
 {
   "name": "civil-services-us-governors",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "United States Governors. Demographics, Headshots, Legislator Data & Social Media Links ( JSON, XML, CSV, SQL, XLSX  & YML formats )",
   "license": "MIT",
   "engines": {
